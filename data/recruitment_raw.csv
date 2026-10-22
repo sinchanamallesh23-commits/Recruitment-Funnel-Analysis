@@ -1,0 +1,1216 @@
+candidate_id,role,source,applied_date,documents_received_date,interviewed_date,offer_made_date,training_completed_date,induction_attended_date,shadowing_completed_date,started_date
+C0001,Healthcare Assistant,Facebook,2025-08-22,,,,,,,
+C0002,Domiciliary Care Worker,Facebook,2026-04-09,2026-04-11,,,,,,
+C0003,Healthcare Assistant,Website,2025-02-19,2025-02-20,,,,,,
+C0004,Domiciliary Care Worker,Facebook,2025-10-27,2025-10-28,,,,,,
+C0005,Healthcare Assistant,Agency,2026-05-04,2026-05-07,2026-05-09,2026-05-11,2026-05-28,2026-05-31,2026-06-20,2026-06-23
+C0006,Domiciliary Care Worker,Facebook,2025-07-20,2025-07-21,2025-07-22,2025-07-23,2025-08-11,2025-08-13,2025-08-18,2025-08-21
+C0007,Domiciliary Care Worker,Referral,2026-06-22,2026-06-23,2026-06-26,2026-06-28,2026-07-14,2026-07-17,2026-07-20,2026-07-21
+C0008,Domiciliary Care Worker,Indeed,2025-12-25,2025-12-26,,,,,,
+C0009,Healthcare Assistant,Website,2026-01-25,,,,,,,
+C0010,Domiciliary Care Worker,Facebook,2025-06-15,2025-06-17,2025-06-20,2025-06-21,2025-07-06,2025-07-07,2025-07-11,2025-07-12
+C0011,Domiciliary Care Worker,Indeed,2025-12-29,2026-01-01,2026-01-06,,,,,
+C0012,Healthcare Assistant,Facebook,2025-09-22,,,,,,,
+C0013,Domiciliary Care Worker,Indeed,2026-01-30,,,,,,,
+C0014,Healthcare Assistant,Indeed,2026-01-28,,,,,,,
+C0015,Healthcare Assistant,Facebook,2025-04-20,2025-04-23,2025-04-25,,,,,
+C0016,Domiciliary Care Worker,Facebook,2026-05-30,,,,,,,
+C0017,Healthcare Assistant,Indeed,2026-02-02,2026-02-04,2026-02-16,,,,,
+C0018,Healthcare Assistant,Indeed,2026-02-08,2026-02-11,2026-02-14,2026-02-15,2026-02-26,2026-02-27,2026-03-03,2026-03-06
+C0019,Domiciliary Care Worker,Website,2025-06-19,2025-06-21,2025-06-25,,,,,
+C0020,Domiciliary Care Worker,Referral,2026-06-01,,,,,,,
+C0021,Healthcare Assistant,Indeed,2025-06-05,2025-06-06,2025-06-07,2025-06-08,2025-06-18,2025-06-30,2025-08-25,2025-08-26
+C0022,Healthcare Assistant,Indeed,2026-03-24,2026-03-28,2026-03-31,2026-04-01,2026-04-17,2026-04-21,2026-04-30,2026-05-12
+C0023,Healthcare Assistant,Website,2025-01-04,,,,,,,
+C0024,Domiciliary Care Worker,Indeed,2025-07-21,,,,,,,
+C0025,Domiciliary Care Worker,Agency,2025-11-09,2025-11-11,,,,,,
+C0026,Healthcare Assistant,Website,2026-02-25,2026-02-27,2026-02-28,2026-03-01,2026-03-12,2026-03-19,2026-04-26,2026-04-29
+C0027,Healthcare Assistant,Referral,2025-04-06,,,,,,,
+C0028,Domiciliary Care Worker,Indeed,2026-02-01,2026-02-05,,,,,,
+C0029,Domiciliary Care Worker,Facebook,2025-08-29,2025-08-30,,,,,,
+C0030,Domiciliary Care Worker,Indeed,2026-02-27,2026-03-02,2026-03-06,2026-03-08,2026-03-23,2026-03-28,2026-04-17,2026-04-19
+C0031,Healthcare Assistant,Agency,2026-02-03,,,,,,,
+C0032,Domiciliary Care Worker,Facebook,2025-07-26,,,,,,,
+C0033,Healthcare Assistant,Agency,2025-05-27,2025-05-29,2025-05-31,2025-06-01,,,,
+C0034,Healthcare Assistant,Facebook,2026-04-05,2026-04-06,,,,,,
+C0035,Healthcare Assistant,Indeed,2025-09-02,,,,,,,
+C0036,Healthcare Assistant,Referral,2025-03-19,2025-03-21,,,,,,
+C0037,Domiciliary Care Worker,Indeed,2026-06-07,,,,,,,
+C0038,Healthcare Assistant,Indeed,2026-05-17,,,,,,,
+C0039,Domiciliary Care Worker,Indeed,2025-01-29,,,,,,,
+C0040,Healthcare Assistant,Referral,2025-04-15,,,,,,,
+C0041,Healthcare Assistant,Facebook,2025-07-20,2025-07-21,2025-07-26,2025-07-28,2025-07-30,2025-08-06,2025-08-28,2025-08-30
+C0042,Domiciliary Care Worker,Website,2025-02-19,2025-02-21,2025-02-22,2025-02-23,2025-03-19,2025-03-21,2025-04-17,2025-04-18
+C0043,Domiciliary Care Worker,Website,2025-10-29,2025-11-01,,,,,,
+C0044,Healthcare Assistant,Website,2026-04-24,2026-04-28,2026-05-01,2026-05-04,2026-05-05,2026-05-11,2026-07-25,2026-07-28
+C0045,Healthcare Assistant,Referral,2025-12-31,2026-01-03,2026-01-10,2026-01-11,2026-02-09,2026-02-12,2026-02-25,2026-02-28
+C0046,Domiciliary Care Worker,Website,2025-04-23,2025-04-24,2025-04-26,2025-04-27,2025-05-01,2025-05-05,,
+C0047,Domiciliary Care Worker,Referral,2025-07-27,,,,,,,
+C0048,Healthcare Assistant,Referral,2025-07-03,2025-07-07,2025-07-09,2025-07-10,,,,
+C0049,Domiciliary Care Worker,Referral,2026-06-16,,,,,,,
+C0050,Domiciliary Care Worker,Facebook,2026-02-16,2026-02-20,,,,,,
+C0051,Healthcare Assistant,Agency,2026-03-20,,,,,,,
+C0052,Domiciliary Care Worker,website,2026-02-01,2026-02-03,2026-02-05,,,,,
+C0053,Healthcare Assistant,Indeed,2026-05-30,,,,,,,
+C0054,Domiciliary Care Worker,Facebook,2025-01-27,2025-01-28,,,,,,
+C0055,Domiciliary Care Worker,Indeed,2025-05-23,,,,,,,
+C0056,Healthcare Assistant,Referral,2026-01-01,,,,,,,
+C0057,Domiciliary Care Worker,Indeed,2025-08-31,2025-09-01,,,,,,
+C0058,Domiciliary Care Worker,Facebook,2025-08-03,2025-08-05,,,,,,
+C0059,Healthcare Assistant,Referral,2025-09-25,2025-10-03,2025-10-04,2025-10-05,2025-10-13,2025-10-14,2025-10-17,2025-10-18
+C0060,Healthcare Assistant,Referral,2026-05-10,2026-05-11,,,,,,
+C0061,Healthcare Assistant,Facebook,2026-04-10,,,,,,,
+C0062,Domiciliary Care Worker,Agency,2025-09-15,2025-09-16,2025-09-18,,,,,
+C0063,Healthcare Assistant,Indeed,2025-01-28,2025-01-29,2025-02-06,2025-02-07,2025-02-12,2025-02-17,2025-02-23,2025-02-24
+C0064,Domiciliary Care Worker,Facebook ,2025-05-13,2025-05-15,2025-05-16,2025-05-18,2025-05-22,,,
+C0065,Healthcare Assistant,Indeed,2026-03-17,2026-03-18,,,,,,
+C0066,Domiciliary Care Worker,Indeed,2025-01-17,,,,,,,
+C0067,Healthcare Assistant,Facebook,2025-05-15,,,,,,,
+C0068,Domiciliary Care Worker,Indeed,2026-05-12,2026-05-16,2026-05-25,2026-05-27,2026-06-08,2026-06-17,2026-07-08,2026-07-10
+C0069,Domiciliary Care Worker,Website ,2025-05-24,2025-05-26,,,,,,
+C0070,Domiciliary Care Worker,Website,2025-01-03,2025-01-05,,,,,,
+C0071,Domiciliary Care Worker,Indeed,2025-03-26,2025-03-31,,,,,,
+C0072,Domiciliary Care Worker,Facebook,2025-05-05,2025-05-07,,,,,,
+C0073,Healthcare Assistant,Website,2026-05-23,2026-05-26,2026-05-31,,,,,
+C0074,Domiciliary Care Worker,Indeed,2025-02-20,2025-02-21,,,,,,
+C0075,Domiciliary Care Worker,Facebook,2025-08-28,,,,,,,
+C0076,Healthcare Assistant,Indeed,2025-02-26,,,,,,,
+C0077,Domiciliary Care Worker,Indeed,2026-05-18,2026-05-20,2026-05-27,2026-05-28,2026-06-08,2026-06-12,2026-07-10,2026-07-12
+C0078,Healthcare Assistant,Indeed,2026-04-25,2026-04-26,,,,,,
+C0079,Domiciliary Care Worker,Referral,2026-04-23,2026-04-25,,,,,,
+C0080,Domiciliary Care Worker,Agency,2025-03-01,2025-03-02,,,,,,
+C0081,Domiciliary Care Worker,Referral,2025-10-09,,,,,,,
+C0082,Domiciliary Care Worker,Referral,2025-03-31,2025-04-03,2025-04-07,,,,,
+C0083,Healthcare Assistant,Indeed,2025-04-07,2025-04-08,,,,,,
+C0084,Healthcare Assistant,Facebook,2026-04-03,2026-04-06,,,,,,
+C0085,Domiciliary Care Worker,Facebook,2025-06-02,2025-06-04,,,,,,
+C0086,Domiciliary Care Worker,Website,2025-09-22,2025-09-25,2025-09-28,2025-09-29,2025-10-25,2025-10-29,2025-11-22,2025-11-23
+C0087,Domiciliary Care Worker,Referral,2025-12-11,2025-12-18,,,,,,
+C0088,Healthcare Assistant,Indeed,2026-03-05,2026-03-09,,,,,,
+C0089,Domiciliary Care Worker,Indeed,2026-01-24,2026-01-25,2026-01-30,2026-02-01,2026-02-04,2026-02-09,2026-03-13,2026-03-19
+C0090,Domiciliary Care Worker,Facebook,2025-09-06,,,,,,,
+C0091,Healthcare Assistant,Indeed,2025-09-08,2025-09-10,2025-09-13,,,,,
+C0092,Healthcare Assistant,Facebook,2025-08-26,2025-08-27,,,,,,
+C0093,Healthcare Assistant,Agency,2026-06-03,2026-06-04,2026-06-12,2026-06-13,2026-06-24,2026-06-29,2026-08-02,2026-08-03
+C0094,Domiciliary Care Worker,Agency,2025-10-20,,,,,,,
+C0095,Domiciliary Care Worker,Facebook,2025-12-05,2025-12-11,2025-12-15,,,,,
+C0096,Healthcare Assistant,Indeed,2025-09-04,,,,,,,
+C0097,Domiciliary Care Worker,Indeed,2025-11-23,2025-11-25,2025-11-29,2025-11-30,2025-12-10,2025-12-13,2025-12-16,2025-12-17
+C0098,Domiciliary Care Worker,Referral,2025-03-04,2025-03-09,2025-03-17,2025-03-19,2025-03-23,2025-03-24,2025-05-09,2025-05-11
+C0099,Healthcare Assistant,Indeed,2025-06-16,2025-06-17,2025-06-19,2025-06-20,,,,
+C0100,Domiciliary Care Worker,Website,2025-10-16,,,,,,,
+C0101,Domiciliary Care Worker,Indeed,2025-04-19,2025-04-21,,,,,,
+C0102,Healthcare Assistant,Indeed,2025-09-30,,,,,,,
+C0103,Domiciliary Care Worker,Indeed,2026-04-07,2026-04-08,,,,,,
+C0104,Healthcare Assistant,Indeed,2025-03-16,,,,,,,
+C0105,Domiciliary Care Worker,Referral,2025-07-27,2025-08-03,2025-08-04,2025-08-05,2025-08-11,2025-08-15,2025-08-23,2025-08-24
+C0106,Domiciliary Care Worker,Indeed,2026-03-24,,,,,,,
+C0107,Healthcare Assistant,Indeed,2025-09-14,2025-09-15,2025-09-16,,,,,
+C0108,Healthcare Assistant,Indeed,2025-11-13,2025-11-14,,,,,,
+C0109,Healthcare Assistant,Agency,2026-02-11,2026-02-12,,,,,,
+C0110,Domiciliary Care Worker,Website,2025-02-27,2025-02-28,,,,,,
+C0111,Domiciliary Care Worker,Indeed,2025-06-26,2025-06-28,2025-07-02,2025-07-06,2025-08-09,,,
+C0112,Healthcare Assistant,Indeed,2025-09-27,2025-10-01,2025-10-06,2025-10-08,2025-10-15,2025-10-20,,
+C0113,Domiciliary Care Worker,Referral,2026-06-20,,,,,,,
+C0114,Healthcare Assistant,Referral,2025-01-29,2025-01-30,,,,,,
+C0115,Domiciliary Care Worker,Website,2025-09-02,,,,,,,
+C0116,Domiciliary Care Worker,Indeed,2025-01-03,,,,,,,
+C0117,Domiciliary Care Worker,Website,2025-05-10,2025-05-11,2025-05-12,,,,,
+C0118,Healthcare Assistant,Referral,2026-06-06,2026-06-07,2026-06-14,2026-06-16,2026-07-01,2026-07-02,2026-07-05,2026-07-08
+C0119,Healthcare Assistant,Indeed,2025-04-11,,,,,,,
+C0120,Healthcare Assistant,Agency,2025-02-22,2025-02-26,2025-02-28,,,,,
+C0121,Domiciliary Care Worker,Indeed,2025-10-22,,,,,,,
+C0122,Healthcare Assistant,Facebook,2025-06-12,2025-06-16,2025-06-19,2025-06-20,2025-06-21,2025-06-25,,
+C0123,Domiciliary Care Worker,Agency,2025-07-15,2025-07-17,,,,,,
+C0124,Domiciliary Care Worker,Facebook,2026-05-25,2026-05-26,2026-05-30,,,,,
+C0125,Healthcare Assistant,Referral,2025-06-20,,,,,,,
+C0126,Healthcare Assistant,Agency,2025-03-27,2025-03-28,,,,,,
+C0127,Domiciliary Care Worker,Website,2026-03-07,,,,,,,
+C0128,Healthcare Assistant,Agency,2025-04-20,2025-04-21,,,,,,
+C0129,Healthcare Assistant,Website,2025-11-29,2025-12-01,2025-12-08,2025-12-09,2025-12-11,2025-12-13,2026-01-19,2026-01-20
+C0130,Domiciliary Care Worker,Indeed,2025-06-23,2025-06-29,2025-07-02,2025-07-03,2025-08-19,,,
+C0131,Healthcare Assistant,Indeed,2025-12-06,2025-12-08,2025-12-09,2025-12-12,2025-12-22,2025-12-23,,
+C0132,Domiciliary Care Worker,Facebook,2026-03-15,2026-03-16,2026-03-21,,,,,
+C0133,Domiciliary Care Worker,Indeed,2025-05-10,2025-05-11,2025-05-13,2025-05-15,2025-05-16,2025-05-19,2025-06-20,2025-06-22
+C0134,Domiciliary Care Worker,Referral,2026-02-27,,,,,,,
+C0135,Domiciliary Care Worker,Agency,2025-07-13,2025-07-18,2025-07-24,2025-07-27,,,,
+C0136,Domiciliary Care Worker,Agency,2025-09-06,2025-09-08,,,,,,
+C0137,Domiciliary Care Worker,Indeed,2025-11-28,2025-12-01,,,,,,
+C0138,Healthcare Assistant,Referral,2025-06-10,2025-06-14,2025-06-17,2025-06-18,2025-06-21,2025-06-22,2025-07-14,2025-07-15
+C0139,Healthcare Assistant,Agency,2025-04-23,2025-04-25,2025-04-28,2025-05-01,2025-05-04,2025-05-05,2025-05-27,2025-05-28
+C0140,Healthcare Assistant,Website,2025-04-23,2025-04-24,,,,,,
+C0141,Healthcare Assistant,Indeed,2025-03-06,2025-03-08,2025-03-13,2025-03-14,,,,
+C0142,Healthcare Assistant,Indeed,2025-05-18,2025-05-23,,,,,,
+C0143,Domiciliary Care Worker,Agency,2026-06-11,,,,,,,
+C0144,Domiciliary Care Worker,Facebook,2025-08-27,2025-08-28,2025-09-01,,,,,
+C0145,Domiciliary Care Worker,Indeed,2025-06-06,,,,,,,
+C0146,Domiciliary Care Worker,Agency,2026-01-02,2026-01-04,,,,,,
+C0147,Healthcare Assistant,Indeed,2025-11-29,2025-12-02,2025-12-03,2025-12-04,2025-12-19,2025-12-20,2026-01-28,2026-01-29
+C0148,Healthcare Assistant,Agency,2026-04-18,,,,,,,
+C0149,Healthcare Assistant,Facebook,2025-10-23,2025-10-24,,,,,,
+C0150,Domiciliary Care Worker,Referral,2025-10-14,2025-10-16,,,,,,
+C0151,Healthcare Assistant,Facebook,2026-06-09,,,,,,,
+C0152,,Agency,2025-11-09,2025-11-12,,,,,,
+C0153,Healthcare Assistant,Indeed,2025-10-13,2025-10-14,2025-10-17,2025-10-18,2025-10-21,2025-10-24,2025-11-18,2025-11-19
+C0154,Healthcare Assistant,Indeed,2026-03-23,2026-03-24,2026-03-26,2026-03-30,2026-04-11,2026-04-12,2026-04-27,2026-04-28
+C0155,Domiciliary Care Worker,Facebook,2025-01-21,2025-01-22,2025-01-27,2025-01-28,,,,
+C0156,Domiciliary Care Worker,Website,2026-02-15,2026-02-20,2026-02-28,2026-03-02,2026-03-10,2026-03-12,2026-04-05,2026-04-07
+C0157,Domiciliary Care Worker,Website,2025-09-23,2025-09-24,2025-09-28,2025-09-30,,,,
+C0158,Domiciliary Care Worker,Indeed,2026-04-04,2026-04-05,2026-04-08,2026-04-09,2026-04-21,2026-04-29,2026-05-16,2026-05-17
+C0159,Healthcare Assistant,Referral,2026-06-12,2026-06-13,2026-06-19,2026-06-20,2026-06-23,2026-07-01,2026-07-20,2026-07-21
+C0160,Domiciliary Care Worker,Referral,2025-06-20,2025-06-21,2025-06-27,2025-06-28,2025-07-06,2025-07-10,2025-07-13,2025-07-14
+C0161,Healthcare Assistant,Indeed,2025-11-07,,,,,,,
+C0162,Healthcare Assistant,Agency,2025-09-03,,,,,,,
+C0163,Healthcare Assistant,Agency,2026-04-17,,,,,,,
+C0164,Healthcare Assistant,Referral,2026-02-17,2026-02-22,,,,,,
+C0165,Domiciliary Care Worker,Website,2025-10-22,2025-10-23,2025-10-30,2025-10-31,,,,
+C0166,Domiciliary Care Worker,indeed,2025-06-18,2025-06-19,2025-06-20,2025-06-21,2025-07-31,2025-08-01,,
+C0167,Healthcare Assistant,Referral,2025-07-10,2025-07-11,2025-07-13,2025-07-14,2025-07-23,2025-08-01,2025-08-03,2025-08-06
+C0168,Domiciliary Care Worker,indeed,2026-04-23,2026-04-24,2026-04-26,2026-04-28,2026-05-20,,,
+C0169,Healthcare Assistant,Agency,2025-07-17,2025-07-20,2025-07-28,2025-07-31,2025-09-05,2025-09-08,2025-10-04,2025-10-05
+C0170,Healthcare Assistant,Facebook,2025-08-29,2025-09-01,2025-09-03,2025-09-05,2025-09-24,2025-09-25,2025-10-23,2025-10-24
+C0171,Domiciliary Care Worker,Indeed,2025-08-20,2025-08-24,2025-09-14,2025-09-16,,,,
+C0172,Healthcare Assistant,Indeed,2025-07-05,2025-07-08,,,,,,
+C0173,Healthcare Assistant,Indeed,2026-05-26,2026-05-27,2026-05-29,2026-05-30,2026-06-14,,,
+C0174,Domiciliary Care Worker,Website,2025-02-28,,,,,,,
+C0175,Domiciliary Care Worker,Facebook,2025-04-02,2025-04-04,,,,,,
+C0176,Healthcare Assistant,Facebook,2025-08-23,,,,,,,
+C0177,Domiciliary Care Worker,Facebook,2025-10-08,2025-10-09,2025-10-14,,,,,
+C0178,Domiciliary Care Worker,Indeed,2026-04-08,2026-04-12,2026-04-14,2026-04-15,2026-04-30,,,
+C0179,Healthcare Assistant,Facebook,2026-05-16,2026-05-20,2026-05-23,2026-05-25,2026-05-30,2026-06-02,,
+C0180,Healthcare Assistant,Indeed,2025-10-12,2025-10-13,,,,,,
+C0181,Domiciliary Care Worker,Website,2025-05-19,2025-05-22,2025-05-24,,,,,
+C0182,Domiciliary Care Worker,Indeed,2025-09-18,2025-09-21,2025-10-06,,,,,
+C0183,Healthcare Assistant,Indeed,2026-05-22,2026-05-25,2026-05-26,2026-05-27,2026-06-05,2026-06-07,,
+C0184,Healthcare Assistant,Facebook,2025-07-18,,,,,,,
+C0185,Healthcare Assistant,Website,2025-08-28,2025-08-30,2025-09-01,,,,,
+C0186,Healthcare Assistant,Facebook,2025-10-31,,,,,,,
+C0187,Healthcare Assistant,Referral,2025-01-12,2025-01-13,,,,,,
+C0188,Healthcare Assistant,Indeed,2025-04-12,2025-04-17,2025-04-25,2025-04-26,,,,
+C0189,Domiciliary Care Worker,Website,2026-04-17,2026-04-18,,,,,,
+C0190,Healthcare Assistant,Indeed,2025-08-24,2025-08-26,2025-09-01,2025-09-02,2025-09-20,2025-09-21,2025-10-02,2025-10-04
+C0191,Domiciliary Care Worker,Website,2025-04-24,2025-05-04,,,,,,
+C0192,Domiciliary Care Worker,Indeed,2026-04-14,,,,,,,
+C0193,Healthcare Assistant,Indeed,2026-04-25,2026-04-26,2026-05-01,2026-05-02,2026-05-22,2026-05-25,2026-06-07,2026-06-09
+C0194,Healthcare Assistant,Indeed,2025-01-31,,,,,,,
+C0195,Healthcare Assistant,Referral,2025-09-02,2025-09-03,,,,,,
+C0196,Healthcare Assistant,Agency,2026-01-10,2026-01-15,2026-01-18,2026-01-20,2026-01-26,2026-01-31,2026-02-20,2026-02-22
+C0197,Domiciliary Care Worker,Agency,2026-05-06,2026-05-07,2026-05-18,2026-05-19,2026-05-28,2026-05-30,2026-06-08,2026-06-10
+C0198,Domiciliary Care Worker,Indeed,2026-06-11,2026-06-12,,,,,,
+C0199,Healthcare Assistant,Indeed,2026-01-09,2026-01-10,2026-01-13,2026-01-14,2026-01-20,2026-01-21,2026-02-03,2026-02-04
+C0200,Domiciliary Care Worker,Facebook,2025-10-19,2025-10-25,,,,,,
+C0201,Healthcare Assistant,Website,2025-06-28,2025-06-30,2025-07-02,,,,,
+C0202,Domiciliary Care Worker,Indeed,2025-01-28,2025-01-29,2025-01-30,2025-01-31,,,,
+C0203,Healthcare Assistant,Website,2025-12-05,2025-12-09,,,,,,
+C0204,Domiciliary Care Worker,Website,2026-01-04,2026-01-08,,,,,,
+C0205,Healthcare Assistant,Indeed,2026-05-09,2026-05-10,,,,,,
+C0206,Domiciliary Care Worker,Indeed,2025-10-24,2025-10-27,,,,,,
+C0207,Domiciliary Care Worker,Indeed,2026-05-06,2026-05-08,2026-05-11,2026-05-15,2026-05-26,2026-05-31,,
+C0208,Domiciliary Care Worker,Indeed,2025-11-13,2025-11-16,,,,,,
+C0209,Domiciliary Care Worker,Facebook,2026-01-01,2026-01-02,2026-01-06,,,,,
+C0210,Domiciliary Care Worker,Website,2025-11-23,2025-11-25,,,,,,
+C0211,Healthcare Assistant,Indeed,2025-07-10,2025-07-11,,,,,,
+C0212,Domiciliary Care Worker,Facebook,2025-01-03,2025-01-08,,,,,,
+C0213,Domiciliary Care Worker,Website,2025-10-10,2025-10-12,2025-10-26,,,,,
+C0214,Domiciliary Care Worker,website,2025-09-04,2025-09-05,,,,,,
+C0215,Domiciliary Care Worker,Facebook,2025-07-09,2025-07-14,2025-07-19,2025-07-25,2025-08-07,2025-08-08,2025-09-20,2025-09-22
+C0216,Domiciliary Care Worker,Indeed,2025-05-04,2025-05-10,2025-05-12,2025-05-14,,,,
+C0217,Healthcare Assistant,Indeed,2025-06-20,2025-06-22,,,,,,
+C0218,Domiciliary Care Worker,Indeed,2026-03-30,2026-03-31,2026-04-03,,,,,
+C0219,Healthcare Assistant,Facebook,2025-12-20,2025-12-26,2025-12-29,2025-12-30,,,,
+C0220,Domiciliary Care Worker,Agency,2026-03-09,2026-03-13,,,,,,
+C0221,Healthcare Assistant,Website,2026-01-30,,,,,,,
+C0222,Healthcare Assistant,indeed,2026-03-15,2026-03-18,2026-03-19,2026-03-20,,,,
+C0223,Healthcare Assistant,Indeed,2025-08-20,2025-08-21,2025-08-24,2025-08-25,2025-09-01,2025-09-05,2025-09-07,2025-09-09
+C0224,Healthcare Assistant,Indeed,2025-04-01,2025-04-02,2025-04-03,,,,,
+C0225,Domiciliary Care Worker,Referral,2025-11-03,2025-11-06,,,,,,
+C0226,Domiciliary Care Worker,Website,2025-10-11,2025-10-14,2025-10-17,2025-10-18,2025-10-30,2025-11-05,2025-12-16,2025-12-17
+C0227,Domiciliary Care Worker,Indeed,2026-01-19,2026-01-26,,,,,,
+C0228,Domiciliary Care Worker,Agency,2025-02-10,2025-02-11,,,,,,
+C0229,Healthcare Assistant,indeed,2025-01-12,2025-01-16,2025-01-17,2025-01-18,,,,
+C0230,Domiciliary Care Worker,Agency,2025-01-25,,,,,,,
+C0231,Healthcare Assistant,Facebook,2026-04-10,,,,,,,
+C0232,Domiciliary Care Worker,Referral,2025-09-01,2025-09-02,2025-09-04,2025-09-08,,,,
+C0233,Healthcare Assistant,Indeed,2025-05-30,,,,,,,
+C0234,Domiciliary Care Worker,Agency,2025-08-21,2025-08-26,2025-09-01,2025-09-02,,,,
+C0235,Domiciliary Care Worker,indeed,2026-04-26,2026-04-29,2026-05-01,2026-05-02,2026-05-04,2026-05-10,2026-06-07,2026-06-09
+C0236,Domiciliary Care Worker,Referral,2025-09-05,2025-09-06,2025-09-07,,,,,
+C0237,Domiciliary Care Worker,Indeed,2025-06-11,2025-06-14,2025-06-15,2025-06-17,2025-07-16,2025-07-19,2025-07-26,2025-07-27
+C0238,Healthcare Assistant,Referral,2026-06-07,2026-06-13,2026-06-14,,,,,
+C0239,Domiciliary Care Worker,Indeed,2026-06-19,2026-06-22,,,,,,
+C0240,Domiciliary Care Worker,Indeed,2025-04-02,2025-04-04,2025-04-06,2025-04-07,2025-04-29,2025-05-04,2025-06-08,2025-06-10
+C0241,Domiciliary Care Worker,Facebook,2026-01-03,2026-01-11,,,,,,
+C0242,Healthcare Assistant,Indeed,2026-01-19,2026-01-23,,,,,,
+C0243,Domiciliary Care Worker,Indeed ,2026-04-14,2026-04-15,,,,,,
+C0244,Healthcare Assistant,Referral,2025-11-01,2025-11-02,2025-11-04,,,,,
+C0245,Domiciliary Care Worker,Facebook,2025-10-13,2025-10-17,2025-10-24,2025-10-25,2025-11-11,2025-11-22,2025-12-13,2025-12-14
+C0246,Domiciliary Care Worker,Indeed,2025-05-31,,,,,,,
+C0247,Domiciliary Care Worker,Website,2025-04-24,,,,,,,
+C0248,Domiciliary Care Worker,Indeed,2026-06-11,,,,,,,
+C0249,Domiciliary Care Worker,Referral,2025-09-07,2025-09-09,2025-09-19,2025-09-20,2025-09-26,2025-10-01,2025-10-29,2025-10-31
+C0250,Healthcare Assistant,Referral,2025-11-30,2025-12-04,2025-12-06,2025-12-07,,,,
+C0251,Domiciliary Care Worker,Facebook,2025-03-11,2025-03-14,2025-03-18,2025-03-19,2025-04-05,2025-04-12,2025-04-28,2025-05-03
+C0252,Healthcare Assistant,Referral,2025-09-09,2025-09-10,2025-09-17,2025-09-18,2025-09-26,2025-09-28,2025-11-05,2025-11-07
+C0253,Healthcare Assistant,Indeed,2025-09-09,2025-09-10,,,,,,
+C0254,Healthcare Assistant,Indeed,2026-06-22,2026-06-23,2026-06-25,2026-06-26,2026-06-30,2026-07-06,2026-08-08,2026-08-09
+C0255,Domiciliary Care Worker,Facebook,2025-09-16,2025-09-17,,,,,,
+C0256,Domiciliary Care Worker,Indeed,2026-01-02,2026-01-03,2026-01-14,2026-01-16,2026-01-21,2026-01-24,2026-02-13,2026-02-16
+C0257,Healthcare Assistant,Agency,2025-02-16,2025-02-17,,,,,,
+C0258,Healthcare Assistant,Referral,2025-01-02,2025-01-16,,,,,,
+C0259,Domiciliary Care Worker,Facebook,2025-04-12,2025-04-15,2025-04-18,2025-04-26,,,,
+C0260,Healthcare Assistant,Indeed,2025-03-17,2025-03-18,2025-03-20,,,,,
+C0261,Domiciliary Care Worker,Facebook,2025-03-07,2025-03-11,2025-03-16,2025-03-17,2025-03-20,2025-03-22,,
+C0262,Domiciliary Care Worker,Indeed,2026-06-09,,,,,,,
+C0263,Domiciliary Care Worker,Facebook,2025-04-07,2025-04-08,2025-04-11,2025-04-14,2025-04-25,2025-05-01,2025-06-09,2025-06-15
+C0264,Healthcare Assistant,website,2025-09-19,2025-09-20,2025-09-26,,,,,
+C0265,Domiciliary Care Worker,Agency ,2026-03-01,,,,,,,
+C0266,Healthcare Assistant,indeed,2025-11-29,2025-12-02,2025-12-07,,,,,
+C0267,Healthcare Assistant,Website,2025-02-06,2025-02-07,2025-02-19,2025-02-20,2025-03-25,2025-03-27,2025-04-09,2025-04-10
+C0268,Healthcare Assistant,Website,2026-05-25,2026-05-26,2026-05-28,2026-05-31,2026-06-08,2026-06-12,2026-06-22,2026-06-24
+C0269,Domiciliary Care Worker,Agency,2025-06-10,,,,,,,
+C0270,Healthcare Assistant,Referral,2026-05-31,,,,,,,
+C0271,Healthcare Assistant,Website,2026-04-20,2026-04-25,2026-04-27,2026-04-28,2026-05-18,2026-05-23,2026-06-06,2026-06-07
+C0272,Healthcare Assistant,Website,2025-03-16,2025-03-19,,,,,,
+C0273,Healthcare Assistant,Facebook,2025-05-28,2025-05-31,,,,,,
+C0274,Domiciliary Care Worker,Facebook,2025-12-22,2025-12-23,2026-01-01,2026-01-02,2026-01-15,2026-01-16,2026-02-06,2026-02-07
+C0275,Healthcare Assistant,Indeed,2025-03-27,,,,,,,
+C0276,Domiciliary Care Worker,Indeed,2026-06-20,2026-06-28,,,,,,
+C0277,Healthcare Assistant,Referral,2025-09-18,2025-09-19,2025-09-25,,,,,
+C0278,Domiciliary Care Worker,Agency,2025-06-17,,,,,,,
+C0279,Domiciliary Care Worker,Referral,2025-04-18,2025-04-19,2025-04-23,2025-04-24,2025-05-06,2025-05-09,2025-05-24,2025-05-27
+C0280,Domiciliary Care Worker,Facebook,2026-02-09,,,,,,,
+C0281,Healthcare Assistant,Referral,2025-02-07,,,,,,,
+C0282,Healthcare Assistant,Indeed,2025-10-21,2025-10-23,2025-10-26,2025-10-27,,,,
+C0283,Domiciliary Care Worker,Indeed,2026-03-15,2026-03-16,2026-03-20,,,,,
+C0284,Domiciliary Care Worker,Indeed,2025-03-25,2025-03-31,,,,,,
+C0285,Domiciliary Care Worker,Website,2025-10-04,2025-10-06,,,,,,
+C0286,Domiciliary Care Worker,Facebook,2025-12-03,2025-12-08,2025-12-12,2025-12-13,,,,
+C0287,Domiciliary Care Worker,Indeed,2025-12-04,,,,,,,
+C0288,Healthcare Assistant,Facebook,2026-03-04,2026-03-11,,,,,,
+C0289,Healthcare Assistant,Indeed,2025-09-14,2025-09-17,2025-09-20,2025-09-21,2025-09-23,2025-09-27,2025-10-13,2025-10-18
+C0290,Domiciliary Care Worker,Agency,2026-06-23,,,,,,,
+C0291,Domiciliary Care Worker,Referral,2026-02-23,2026-02-26,2026-03-09,2026-03-11,,,,
+C0292,Healthcare Assistant,Website,2026-04-23,2026-04-26,2026-05-02,,,,,
+C0293,Healthcare Assistant,Indeed,2026-05-07,2026-05-11,,,,,,
+C0294,Healthcare Assistant,Indeed,2025-06-16,2025-06-19,2025-06-20,2025-06-21,2025-08-01,2025-08-02,2025-09-13,2025-09-14
+C0295,Domiciliary Care Worker,Website,2025-02-18,,,,,,,
+C0296,Healthcare Assistant,Referral,2025-04-10,2025-04-14,2025-04-21,2025-04-22,2025-04-23,2025-04-24,2025-05-16,2025-05-21
+C0297,Domiciliary Care Worker,Facebook,2026-04-30,,,,,,,
+C0298,Domiciliary Care Worker,Website,2026-03-26,2026-03-28,,,,,,
+C0299,Domiciliary Care Worker,Indeed,2025-02-24,2025-02-25,,,,,,
+C0300,Domiciliary Care Worker,Indeed,2026-02-13,2026-02-16,2026-02-22,2026-02-27,2026-03-10,2026-03-14,2026-03-31,2026-04-02
+C0301,Domiciliary Care Worker,Indeed,2025-09-15,2025-09-23,2025-09-25,,,,,
+C0302,Domiciliary Care Worker,Agency,2025-06-26,2025-06-27,,,,,,
+C0303,Healthcare Assistant,Agency,2025-09-23,2025-09-24,2025-09-25,2025-09-26,2025-10-13,2025-10-18,2025-11-11,2025-11-13
+C0304,Healthcare Assistant,Indeed,2026-03-28,2026-03-31,2026-04-06,2026-04-07,2026-04-25,2026-04-26,2026-05-08,2026-05-09
+C0305,Healthcare Assistant,Indeed,2026-03-10,2026-03-11,2026-03-14,2026-03-15,2026-03-21,2026-03-23,2026-04-07,2026-04-08
+C0306,Healthcare Assistant,Indeed,2026-05-21,2026-05-23,,,,,,
+C0307,Domiciliary Care Worker,Indeed,2026-03-14,,,,,,,
+C0308,Domiciliary Care Worker,Indeed,2025-01-16,2025-01-18,2025-01-19,,,,,
+C0309,Healthcare Assistant,Indeed,2025-07-12,2025-07-13,,,,,,
+C0310,Healthcare Assistant,Agency,2026-01-23,2026-01-24,2026-01-29,2026-01-30,2026-02-14,2026-02-16,2026-02-28,2026-03-02
+C0311,Domiciliary Care Worker,Website,2025-06-03,2025-06-05,2025-06-12,2025-06-13,2025-06-23,2025-06-27,2025-07-10,2025-07-12
+C0312,Healthcare Assistant,Indeed,2025-07-28,2025-07-30,2025-08-01,,,,,
+C0313,,Indeed,2026-04-14,,,,,,,
+C0314,Domiciliary Care Worker,Agency,2026-04-18,,,,,,,
+C0315,Healthcare Assistant,Agency,2025-02-01,2025-02-04,2025-02-06,2025-02-08,2025-02-11,2025-02-19,2025-02-28,2025-03-01
+C0316,Healthcare Assistant,Referral,2025-08-02,2025-08-03,2025-08-08,2025-08-09,2025-09-28,2025-09-29,2025-12-13,2025-12-14
+C0317,Healthcare Assistant,Referral,2026-06-22,2026-06-25,2026-07-01,2026-07-03,,,,
+C0318,Domiciliary Care Worker,Facebook,2025-04-04,2025-04-07,2025-04-12,2025-04-13,,,,
+C0319,Domiciliary Care Worker,Indeed,2026-04-29,,,,,,,
+C0320,Healthcare Assistant,Website,2025-08-27,2025-08-28,2025-09-05,2025-09-08,2025-09-16,2025-09-17,2025-09-23,2025-09-25
+C0321,Healthcare Assistant,Indeed,2025-08-06,2025-08-10,2025-08-13,2025-08-14,2025-08-30,2025-09-03,2025-09-12,2025-09-17
+C0322,Healthcare Assistant,Indeed,2025-12-16,2025-12-20,2025-12-30,2026-01-01,2026-01-16,2026-01-26,2026-03-13,2026-03-15
+C0323,Domiciliary Care Worker,Referral,2026-06-04,,,,,,,
+C0324,Healthcare Assistant,Facebook,2025-06-21,2025-06-22,,,,,,
+C0325,Domiciliary Care Worker,Facebook,2025-01-28,2025-01-30,,,,,,
+C0326,Healthcare Assistant,Facebook,2025-08-19,2025-08-20,2025-08-27,2025-08-28,,,,
+C0327,Domiciliary Care Worker,Indeed,2025-01-20,2025-01-21,2025-01-26,2025-01-27,2025-02-06,,,
+C0328,Domiciliary Care Worker,Indeed,2025-02-08,,,,,,,
+C0329,Domiciliary Care Worker,Referral,2025-04-10,2025-04-12,2025-04-14,2025-04-15,2025-05-02,2025-05-07,2025-06-02,2025-06-10
+C0330,Domiciliary Care Worker,Indeed,2026-01-27,2026-02-02,2026-02-08,2026-02-09,2026-03-03,,,
+C0331,Healthcare Assistant,Referral,2025-06-15,2025-06-20,2025-06-21,,,,,
+C0332,Domiciliary Care Worker,Indeed,2025-01-08,2025-01-10,2025-01-13,,,,,
+C0333,Domiciliary Care Worker,Website,2025-10-13,2025-10-15,2025-10-25,2025-10-26,2025-11-23,2025-11-24,2025-11-28,2025-11-29
+C0334,Domiciliary Care Worker,Website,2026-01-23,,,,,,,
+C0335,Domiciliary Care Worker,Website,2026-01-14,2026-01-15,,,,,,
+C0336,Healthcare Assistant,Indeed,2026-04-11,,,,,,,
+C0337,Domiciliary Care Worker,Indeed,2026-06-23,2026-07-02,2026-07-08,2026-07-09,2026-07-10,,,
+C0338,Healthcare Assistant,Indeed,2025-04-27,2025-04-29,2025-05-02,,,,,
+C0339,Domiciliary Care Worker,Indeed,2025-08-28,2025-08-31,2025-09-11,2025-09-12,,,,
+C0340,Healthcare Assistant,Agency,2026-05-20,2026-05-24,2026-06-02,,,,,
+C0341,Healthcare Assistant,Indeed,2026-01-04,,,,,,,
+C0342,Domiciliary Care Worker,Facebook,2025-11-04,2025-11-06,2025-11-16,,,,,
+C0343,Domiciliary Care Worker,Indeed,2025-12-05,2025-12-11,2025-12-19,2025-12-22,2025-12-27,2025-12-29,2026-01-21,2026-01-22
+C0344,Healthcare Assistant,Indeed,2026-02-05,,,,,,,
+C0345,Healthcare Assistant,Indeed,2026-03-22,,,,,,,
+C0346,Domiciliary Care Worker,Website,2026-01-24,2026-01-25,,,,,,
+C0347,Domiciliary Care Worker,Facebook,2025-10-03,2025-10-04,,,,,,
+C0348,Healthcare Assistant,Indeed,2025-01-11,2025-01-14,2025-01-18,2025-01-20,2025-02-07,2025-02-25,2025-03-01,2025-03-02
+C0349,Healthcare Assistant,Facebook,2026-02-07,2026-02-08,2026-02-14,,,,,
+C0350,Domiciliary Care Worker,Indeed,2025-11-07,2025-11-09,,,,,,
+C0351,Domiciliary Care Worker,Referral,2025-06-27,2025-06-28,2025-06-29,,,,,
+C0352,Healthcare Assistant,Indeed,2025-10-13,,,,,,,
+C0353,Domiciliary Care Worker,Indeed,2026-05-14,2026-05-16,2026-05-18,2026-05-21,2026-05-31,2026-06-11,2026-06-20,
+C0354,Healthcare Assistant,Indeed,2025-05-31,2025-06-05,2025-06-06,2025-06-07,2025-06-18,2025-06-27,2025-07-08,2025-07-09
+C0355,Healthcare Assistant,Website,2025-11-30,2025-12-01,,,,,,
+C0356,Domiciliary Care Worker,Referral,2026-02-17,2026-02-18,2026-02-22,2026-02-23,2026-03-12,2026-03-23,2026-04-23,2026-04-26
+C0357,Healthcare Assistant,Facebook,2025-04-29,,,,,,,
+C0358,Domiciliary Care Worker,Indeed,2025-02-08,2025-02-10,2025-02-16,2025-02-17,2025-03-04,2025-03-05,2025-03-22,2025-03-23
+C0359,Domiciliary Care Worker,Indeed,2025-11-15,,,,,,,
+C0360,Domiciliary Care Worker,Agency,2025-02-10,,,,,,,
+C0361,Domiciliary Care Worker,Referral,2026-04-06,2026-04-13,2026-04-16,2026-04-17,,,,
+C0362,Domiciliary Care Worker,Referral,2025-05-08,2025-05-09,,,,,,
+C0363,Domiciliary Care Worker,Indeed,2026-01-25,2026-01-28,2026-02-06,2026-02-09,2026-02-18,2026-02-23,2026-03-10,2026-03-11
+C0364,Healthcare Assistant,Indeed,2025-09-10,2025-09-14,2025-09-15,,,,,
+C0365,Healthcare Assistant,Agency,2026-02-10,,,,,,,
+C0366,Healthcare Assistant,Indeed,2025-06-17,,,,,,,
+C0367,Domiciliary Care Worker,Indeed,2025-09-01,2025-09-02,2025-09-13,,,,,
+C0368,Healthcare Assistant,Indeed,2025-03-26,2025-03-27,2025-04-02,,,,,
+C0369,Healthcare Assistant,Agency,2025-07-04,2025-07-05,2025-07-13,2025-07-15,2025-07-28,2025-08-01,2025-08-04,2025-08-08
+C0370,Healthcare Assistant,Indeed,2026-02-15,2026-02-18,2026-02-21,2026-02-26,2026-03-09,2026-03-12,2026-03-18,2026-03-26
+C0371,Healthcare Assistant,Agency,2025-12-11,2025-12-12,2025-12-13,2025-12-16,2025-12-23,2025-12-24,2025-12-31,2026-01-01
+C0372,Healthcare Assistant,Website,2025-05-08,,,,,,,
+C0373,Domiciliary Care Worker,Website,2025-09-17,2025-09-19,2025-09-22,2025-09-24,2025-10-04,2025-10-05,2025-10-18,2025-10-23
+C0374,Domiciliary Care Worker,Indeed,2026-05-13,2026-05-15,,,,,,
+C0375,Healthcare Assistant,Indeed,2026-06-24,,,,,,,
+C0376,Healthcare Assistant,Website,2025-04-12,,,,,,,
+C0377,Healthcare Assistant,Facebook,2026-01-30,2026-02-04,,,,,,
+C0378,Healthcare Assistant,Website,2025-11-18,2025-11-23,2025-11-25,2025-11-27,2025-12-05,2025-12-09,2025-12-17,2025-12-21
+C0379,Healthcare Assistant,Indeed,2026-03-20,2026-03-22,2026-03-30,2026-04-01,2026-04-10,2026-04-12,2026-05-14,2026-05-16
+C0380,Healthcare Assistant,Facebook,2025-03-26,2025-03-29,2025-03-30,2025-04-01,,,,
+C0381,Healthcare Assistant,Referral,2025-11-07,2025-11-09,2025-11-20,2025-11-21,,,,
+C0382,Healthcare Assistant,Indeed,2026-01-03,2026-01-06,2026-01-07,2026-01-08,,,,
+C0383,Domiciliary Care Worker,Facebook,2025-07-03,2025-07-11,2025-07-14,2025-07-16,2025-07-24,,,
+C0384,Healthcare Assistant,website,2026-04-20,2026-04-21,2026-04-23,2026-04-24,2026-05-07,2026-05-09,,
+C0385,Domiciliary Care Worker,Website,2025-01-27,2025-01-28,2025-01-29,2025-01-30,2025-02-05,2025-02-12,2025-02-19,2025-02-21
+C0386,Domiciliary Care Worker,Indeed,2025-11-18,2025-11-20,2025-12-04,,,,,
+C0387,Domiciliary Care Worker,Agency,2026-02-19,2026-02-22,2026-02-23,2026-02-24,2026-02-27,2026-02-28,2026-04-02,2026-04-03
+C0388,Healthcare Assistant,Indeed,2025-05-01,2025-05-04,2025-05-15,2025-05-17,2025-05-22,2025-05-27,2025-06-08,2025-06-10
+C0389,Healthcare Assistant,Website,2026-01-30,,,,,,,
+C0390,Domiciliary Care Worker,Indeed,2025-11-16,,,,,,,
+C0391,Domiciliary Care Worker,Indeed,2026-05-29,2026-06-02,,,,,,
+C0392,Domiciliary Care Worker,Indeed,2026-02-17,2026-02-20,2026-02-26,2026-02-28,2026-03-14,2026-03-15,2026-03-29,2026-04-06
+C0393,Healthcare Assistant,Website,2025-08-12,,,,,,,
+C0394,Domiciliary Care Worker,Indeed,2025-07-05,,,,,,,
+C0395,Domiciliary Care Worker,Indeed,2025-08-23,2025-08-26,,,,,,
+C0396,Healthcare Assistant,Indeed,2025-08-14,2025-08-16,,,,,,
+C0397,Domiciliary Care Worker,Facebook,2026-03-19,,,,,,,
+C0398,Healthcare Assistant,Website,2025-06-09,,,,,,,
+C0399,Domiciliary Care Worker,Indeed,2026-02-10,,,,,,,
+C0400,Domiciliary Care Worker,Referral,2026-02-11,2026-02-15,2026-02-18,2026-02-20,,,,
+C0401,Healthcare Assistant,Indeed,2025-12-23,2025-12-24,2025-12-29,2025-12-30,2026-01-04,2026-01-05,2026-01-20,2026-01-21
+C0402,Healthcare Assistant,Indeed,2025-04-29,2025-05-04,,,,,,
+C0403,Healthcare Assistant,Indeed ,2025-11-27,,,,,,,
+C0404,Healthcare Assistant,Indeed,2025-12-17,,,,,,,
+C0405,Healthcare Assistant,Indeed,2026-04-27,2026-04-28,2026-05-01,2026-05-02,2026-05-06,2026-05-10,2026-05-19,2026-05-21
+C0406,Domiciliary Care Worker,Indeed,2025-01-27,2025-01-30,2025-02-01,,,,,
+C0407,Healthcare Assistant,Indeed,2026-05-01,,,,,,,
+C0408,Healthcare Assistant,Website,2025-09-01,2025-09-03,2025-09-11,2025-09-12,2025-10-05,2025-10-06,2025-10-20,2025-10-22
+C0409,Healthcare Assistant,Indeed,2025-12-11,2025-12-13,,,,,,
+C0410,Healthcare Assistant,Website,2025-11-02,2025-11-08,,,,,,
+C0411,Domiciliary Care Worker,Facebook,2026-06-23,2026-06-24,2026-06-29,2026-06-30,,,,
+C0412,Domiciliary Care Worker,Website,2025-11-22,,,,,,,
+C0413,Domiciliary Care Worker,Indeed,2026-05-11,,,,,,,
+C0414,Healthcare Assistant,Agency,2025-11-08,2025-11-09,2025-11-20,2025-11-21,,,,
+C0415,Domiciliary Care Worker,Facebook,2025-06-02,2025-06-10,,,,,,
+C0416,Healthcare Assistant,Indeed,2026-06-20,2026-06-22,2026-06-23,2026-06-24,,,,
+C0417,,Website,2025-09-25,2025-09-27,2025-09-30,2025-10-01,2025-10-10,2025-10-12,2025-11-10,2025-11-13
+C0418,Domiciliary Care Worker,Facebook,2025-02-16,,,,,,,
+C0419,Domiciliary Care Worker,Facebook,2026-02-17,,,,,,,
+C0420,Domiciliary Care Worker,Referral,2025-04-21,2025-04-25,2025-05-09,,,,,
+C0421,Domiciliary Care Worker,Facebook,2025-05-09,2025-05-13,2025-05-17,2025-05-20,2025-05-30,2025-06-07,2025-07-01,2025-07-03
+C0422,Domiciliary Care Worker,Website,2025-08-20,,,,,,,
+C0423,Healthcare Assistant,Website,2025-11-30,2025-12-04,2025-12-10,2025-12-11,2026-01-20,2026-01-21,2026-02-13,2026-02-17
+C0424,Healthcare Assistant,Agency,2025-08-11,2025-08-21,,,,,,
+C0425,Domiciliary Care Worker,Referral,2025-06-10,2025-06-14,2025-06-27,2025-07-01,2025-07-05,2025-07-08,2025-08-19,2025-08-23
+C0426,Healthcare Assistant,Website,2026-03-18,2026-03-25,2026-03-31,2026-04-02,2026-04-26,2026-05-02,2026-05-22,2026-05-23
+C0427,Healthcare Assistant,Agency,2026-05-08,2026-05-10,2026-05-13,2026-05-14,2026-05-26,2026-05-30,,
+C0428,Healthcare Assistant,Indeed,2026-01-04,2026-01-06,,,,,,
+C0429,Healthcare Assistant,Indeed,2025-09-15,2025-09-19,2025-09-21,2025-09-24,2025-09-29,2025-09-30,,
+C0430,Healthcare Assistant,Indeed,2025-08-05,2025-08-08,2025-08-17,2025-08-18,2025-09-12,2025-09-13,2025-10-24,2025-10-30
+C0431,Healthcare Assistant,Website,2026-06-09,2026-06-13,2026-06-17,,,,,
+C0432,Healthcare Assistant,Indeed,2025-02-04,2025-02-07,2025-02-08,2025-02-09,2025-02-20,2025-02-23,2025-02-26,2025-02-28
+C0433,Domiciliary Care Worker,Facebook,2025-04-23,2025-04-26,2025-05-02,2025-05-03,2025-05-07,2025-05-15,2025-05-28,2025-05-29
+C0434,Domiciliary Care Worker,Website,2025-11-04,2025-11-08,2025-11-10,2025-11-12,2025-11-18,2025-11-20,2025-12-01,2025-12-02
+C0435,Healthcare Assistant,Indeed,2025-03-23,2025-03-24,2025-03-25,,,,,
+C0436,Domiciliary Care Worker,Indeed,2025-02-08,2025-02-13,,,,,,
+C0437,Domiciliary Care Worker,Website,2025-04-13,,,,,,,
+C0438,Healthcare Assistant,Facebook,2025-07-14,2025-07-15,2025-07-18,,,,,
+C0439,Domiciliary Care Worker,Referral,2026-06-08,2026-06-09,2026-06-13,2026-06-14,2026-07-19,2026-07-20,2026-08-15,2026-08-17
+C0440,Domiciliary Care Worker,Website,2025-11-29,,,,,,,
+C0441,Healthcare Assistant,Facebook,2025-07-06,,,,,,,
+C0442,Healthcare Assistant,Website,2026-03-21,2026-03-22,2026-03-30,2026-03-31,,,,
+C0443,Healthcare Assistant,Indeed,2026-02-01,,,,,,,
+C0444,Domiciliary Care Worker,Facebook,2026-02-17,,,,,,,
+C0445,Healthcare Assistant,Indeed,2025-11-17,2025-11-18,,,,,,
+C0446,Healthcare Assistant,Agency,2026-04-24,,,,,,,
+C0447,Domiciliary Care Worker,Facebook,2025-10-01,,,,,,,
+C0448,Healthcare Assistant,Agency,2025-02-06,,,,,,,
+C0449,Domiciliary Care Worker,Indeed,2025-05-02,2025-05-06,,,,,,
+C0450,Domiciliary Care Worker,Agency,2025-03-19,2025-03-23,,,,,,
+C0451,Healthcare Assistant,Facebook,2026-06-15,,,,,,,
+C0452,Domiciliary Care Worker,Website,2025-10-12,,,,,,,
+C0453,Domiciliary Care Worker,Website,2025-10-08,,,,,,,
+C0454,Domiciliary Care Worker,Facebook,2025-05-12,2025-05-15,,,,,,
+C0455,Domiciliary Care Worker,Website,2025-10-08,2025-10-10,2025-10-13,,,,,
+C0456,Domiciliary Care Worker,Indeed,2025-12-23,2025-12-24,,,,,,
+C0457,Healthcare Assistant,Indeed,2025-06-30,,,,,,,
+C0458,Healthcare Assistant,Facebook,2025-07-09,,,,,,,
+C0459,Domiciliary Care Worker,Indeed,2025-10-07,2025-10-13,2025-10-18,2025-10-19,2025-11-05,2025-11-08,2025-11-27,2025-11-29
+C0460,Domiciliary Care Worker,Facebook,2026-03-04,2026-03-06,,,,,,
+C0461,Domiciliary Care Worker,Facebook,2025-11-10,2025-11-11,2025-11-21,2025-11-22,2025-11-23,2025-11-30,,
+C0462,Healthcare Assistant,Website,2025-06-29,,,,,,,
+C0463,Domiciliary Care Worker,Indeed,2026-04-04,2026-04-06,,,,,,
+C0464,Healthcare Assistant,Website,2025-11-14,2025-11-22,,,,,,
+C0465,Domiciliary Care Worker,Referral,2025-11-10,2025-11-12,2025-11-17,2025-11-20,2025-11-22,2025-11-25,2025-12-02,2025-12-07
+C0466,Healthcare Assistant,Agency,2025-06-07,2025-06-10,2025-06-14,2025-06-15,,,,
+C0467,Healthcare Assistant,Indeed,2025-04-01,2025-04-02,2025-04-08,2025-04-09,2025-04-25,2025-04-26,2025-04-28,2025-05-09
+C0468,Domiciliary Care Worker,Referral,2025-01-31,2025-02-02,2025-02-04,2025-02-05,2025-02-21,2025-02-27,2025-03-16,2025-03-19
+C0469,Domiciliary Care Worker,Agency,2025-02-19,,,,,,,
+C0470,Domiciliary Care Worker,Facebook,2025-07-23,2025-07-26,,,,,,
+C0471,Domiciliary Care Worker,Facebook,2026-06-09,2026-06-11,,,,,,
+C0472,Domiciliary Care Worker,facebook,2026-01-15,2026-01-20,,,,,,
+C0473,Healthcare Assistant,Indeed,2025-11-03,2025-11-05,2025-11-09,2025-11-13,,,,
+C0474,Healthcare Assistant,Website,2026-05-14,2026-05-16,2026-05-20,2026-05-24,2026-06-10,2026-06-14,2026-07-08,2026-07-15
+C0475,Healthcare Assistant,Indeed,2025-11-15,2025-11-19,2025-11-25,2025-11-26,2025-11-30,2025-12-05,2026-01-02,2026-01-03
+C0476,Domiciliary Care Worker,Indeed,2025-03-15,2025-03-16,2025-03-20,2025-03-21,2025-04-01,2025-04-02,2025-05-19,2025-05-21
+C0477,Healthcare Assistant,Indeed,2025-09-28,2025-09-29,2025-10-10,2025-10-12,2025-10-22,,,
+C0478,Healthcare Assistant,Indeed,2025-07-16,2025-07-17,2025-07-28,2025-07-29,,,,
+C0479,Healthcare Assistant,Facebook ,2026-05-20,2026-05-23,,,,,,
+C0480,Domiciliary Care Worker,Referral,2025-06-02,,,,,,,
+C0481,Domiciliary Care Worker,Referral,2026-02-02,,,,,,,
+C0482,Healthcare Assistant,Website,2025-09-06,,,,,,,
+C0483,Healthcare Assistant,Facebook,2026-06-09,2026-06-12,2026-06-15,2026-06-17,,,,
+C0484,Healthcare Assistant,Indeed,2025-07-20,2025-07-21,2025-07-23,2025-07-28,2025-08-15,2025-08-16,2025-08-27,2025-08-30
+C0485,Domiciliary Care Worker,Website,2025-07-23,2025-07-24,2025-07-31,2025-08-01,,,,
+C0486,Domiciliary Care Worker,Website,2025-04-16,2025-04-17,,,,,,
+C0487,Domiciliary Care Worker,Referral,2025-01-13,2025-01-14,,,,,,
+C0488,Healthcare Assistant,Referral,2025-04-06,2025-04-07,,,,,,
+C0489,Healthcare Assistant,Referral,2026-05-28,2026-05-29,2026-06-02,2026-06-06,2026-06-13,2026-06-19,2026-07-02,2026-07-05
+C0490,Healthcare Assistant,Facebook,2025-09-18,,,,,,,
+C0491,Domiciliary Care Worker,Referral,2025-04-24,,,,,,,
+C0492,Healthcare Assistant,Agency,2026-06-08,2026-06-12,2026-06-14,2026-06-15,2026-06-24,2026-06-25,2026-07-29,2026-07-31
+C0493,Domiciliary Care Worker,Website,2026-06-16,2026-06-18,,,,,,
+C0494,Healthcare Assistant,Referral,2025-05-05,2025-05-06,2025-05-07,2025-05-08,,,,
+C0495,Healthcare Assistant,Website,2026-04-19,2026-04-23,,,,,,
+C0496,Healthcare Assistant,Facebook,2025-12-11,2025-12-14,2025-12-16,2025-12-17,2025-12-28,2025-12-29,2026-01-08,2026-01-10
+C0497,Healthcare Assistant,Facebook,2026-03-20,,,,,,,
+C0498,Healthcare Assistant,Facebook,2025-09-07,2025-09-09,2025-09-16,2025-09-17,,,,
+C0499,Domiciliary Care Worker,Indeed,2025-10-19,2025-10-20,,,,,,
+C0500,Healthcare Assistant,Agency,2026-03-16,2026-03-17,,,,,,
+C0501,Healthcare Assistant,Website,2025-02-21,2025-02-22,2025-02-23,2025-02-24,2025-02-28,2025-03-03,2025-06-13,2025-06-17
+C0502,Domiciliary Care Worker,Website,2025-08-31,2025-09-11,2025-09-16,2025-09-17,2025-09-24,2025-09-26,2025-10-01,2025-10-02
+C0503,Domiciliary Care Worker,Indeed,2025-08-09,2025-08-18,2025-08-24,2025-08-26,2025-10-04,,,
+C0504,Healthcare Assistant,Facebook,2026-04-07,,,,,,,
+C0505,Domiciliary Care Worker,Indeed,2025-06-29,2025-07-01,2025-07-04,,,,,
+C0506,Healthcare Assistant,Facebook,2026-04-04,2026-04-07,2026-04-16,2026-04-18,2026-04-23,,,
+C0507,Healthcare Assistant,Website,2026-05-03,2026-05-06,,,,,,
+C0508,Healthcare Assistant,Facebook,2025-04-29,2025-05-06,,,,,,
+C0509,Healthcare Assistant,Facebook,2025-03-25,,,,,,,
+C0510,Domiciliary Care Worker,Indeed,2026-05-14,,,,,,,
+C0511,Domiciliary Care Worker,Indeed,2026-05-15,,,,,,,
+C0512,Domiciliary Care Worker,Indeed,2025-02-12,2025-02-20,2025-02-21,2025-02-24,2025-02-27,2025-03-01,2025-03-11,
+C0513,Domiciliary Care Worker,Facebook,2025-11-26,2025-11-28,,,,,,
+C0514,Healthcare Assistant,Website,2026-02-09,,,,,,,
+C0515,Healthcare Assistant,Agency,2026-02-26,2026-02-28,2026-03-03,2026-03-04,2026-03-24,2026-03-27,,
+C0516,Healthcare Assistant,Indeed,2025-05-12,2025-05-18,2025-05-21,,,,,
+C0517,Domiciliary Care Worker,Referral,2025-07-20,2025-07-24,,,,,,
+C0518,Healthcare Assistant,Indeed,2025-04-19,2025-04-25,2025-04-29,2025-04-30,,,,
+C0519,Domiciliary Care Worker,Indeed,2025-11-11,2025-11-15,,,,,,
+C0520,Healthcare Assistant,Facebook,2026-06-19,2026-06-20,,,,,,
+C0521,Domiciliary Care Worker,Facebook,2025-02-10,2025-02-16,,,,,,
+C0522,Healthcare Assistant,Indeed,2025-04-14,2025-04-17,2025-04-22,2025-04-23,2025-05-08,2025-05-13,2025-06-02,2025-06-05
+C0523,Domiciliary Care Worker,Facebook,2026-05-09,2026-05-15,,,,,,
+C0524,Healthcare Assistant,Indeed,2025-05-07,2025-05-12,,,,,,
+C0525,Domiciliary Care Worker,Facebook,2025-07-14,2025-07-16,2025-07-20,,,,,
+C0526,Domiciliary Care Worker,Referral,2025-08-31,,,,,,,
+C0527,Domiciliary Care Worker,Indeed,2025-03-17,2025-03-18,2025-03-29,2025-03-30,2025-04-01,2025-04-03,2025-04-18,2025-04-21
+C0528,Healthcare Assistant,Website,2025-01-08,,,,,,,
+C0529,Healthcare Assistant,Referral,2026-03-12,,,,,,,
+C0530,Healthcare Assistant,Indeed,2025-12-14,,,,,,,
+C0531,Healthcare Assistant,Website,2026-03-25,,,,,,,
+C0532,Healthcare Assistant,Indeed,2025-08-02,2025-08-09,,,,,,
+C0533,Domiciliary Care Worker,Facebook,2025-07-08,2025-07-18,,,,,,
+C0534,Domiciliary Care Worker,Indeed,2025-07-22,2025-07-25,,,,,,
+C0535,Domiciliary Care Worker,Facebook,2025-02-17,2025-02-21,2025-02-23,2025-02-24,,,,
+C0536,Domiciliary Care Worker,Referral,2026-05-29,2026-05-30,,,,,,
+C0537,Domiciliary Care Worker,Referral,2026-02-10,,,,,,,
+C0538,Healthcare Assistant,Website,2025-09-24,,,,,,,
+C0539,Domiciliary Care Worker,Facebook,2025-10-03,2025-10-04,2025-10-07,2025-10-08,2025-10-17,2025-10-18,2025-11-01,2025-11-04
+C0540,Healthcare Assistant,Website,2026-06-19,2026-06-20,2026-07-02,2026-07-03,2026-07-11,2026-07-18,,
+C0541,Healthcare Assistant,Website,2026-03-06,2026-03-08,2026-03-10,,,,,
+C0542,Domiciliary Care Worker,Indeed,2025-11-25,2025-11-26,,,,,,
+C0543,Healthcare Assistant,Agency,2025-08-24,,,,,,,
+C0544,Domiciliary Care Worker,Facebook,2026-02-08,2026-02-11,,,,,,
+C0545,Domiciliary Care Worker,Website,2025-10-25,,,,,,,
+C0546,Domiciliary Care Worker,Indeed,2025-06-30,2025-07-07,,,,,,
+C0547,Domiciliary Care Worker,Agency,2025-12-15,2025-12-17,2025-12-23,2025-12-24,2025-12-29,2026-01-07,2026-01-13,2026-01-14
+C0548,Healthcare Assistant,indeed,2025-02-06,2025-02-10,2025-02-12,,,,,
+C0549,Healthcare Assistant,Indeed,2026-04-01,,,,,,,
+C0550,Domiciliary Care Worker,Indeed,2026-05-29,,,,,,,
+C0551,Domiciliary Care Worker,Indeed,2026-06-22,2026-06-24,2026-06-28,2026-06-29,2026-07-03,2026-07-07,,
+C0552,Domiciliary Care Worker,Website,2025-06-21,2025-06-24,2025-06-26,,,,,
+C0553,Healthcare Assistant,Indeed,2025-10-10,,,,,,,
+C0554,Domiciliary Care Worker,Indeed,2025-01-15,2025-01-23,2025-01-25,2025-01-29,2025-02-09,2025-02-12,2025-02-22,2025-02-23
+C0555,Domiciliary Care Worker,Indeed,2025-09-19,2025-09-20,2025-09-22,2025-09-23,2025-10-01,2025-10-04,,
+C0556,Domiciliary Care Worker,Website,2025-06-07,2025-06-09,2025-06-12,,,,,
+C0557,Domiciliary Care Worker,Facebook,2026-04-21,,,,,,,
+C0558,Healthcare Assistant,Indeed,2025-04-23,2025-04-27,,,,,,
+C0559,Domiciliary Care Worker,Indeed,2025-06-03,2025-06-04,2025-06-08,2025-06-09,2025-06-12,2025-06-15,,
+C0560,Domiciliary Care Worker,Indeed,2025-07-01,2025-07-02,,,,,,
+C0561,Domiciliary Care Worker,Indeed,2026-04-19,2026-04-26,2026-05-02,2026-05-03,2026-05-13,2026-05-15,2026-06-05,2026-06-15
+C0562,Domiciliary Care Worker,Facebook,2025-06-21,,,,,,,
+C0563,Domiciliary Care Worker,Referral,2025-03-19,2025-03-20,,,,,,
+C0564,Healthcare Assistant,Agency,2026-02-06,2026-02-07,2026-02-10,2026-02-13,,,,
+C0565,Healthcare Assistant,Agency,2025-08-30,2025-08-31,2025-09-01,2025-09-02,2025-09-10,,,
+C0566,Domiciliary Care Worker,Indeed,2025-05-20,2025-05-25,,,,,,
+C0567,Healthcare Assistant,Referral,2025-11-27,2025-11-30,2025-12-04,2025-12-05,2025-12-29,2026-01-05,2026-01-17,2026-01-21
+C0568,Domiciliary Care Worker,Indeed,2025-10-21,2025-10-24,,,,,,
+C0569,Domiciliary Care Worker,Indeed,2026-03-21,2026-03-22,2026-04-02,2026-04-04,,,,
+C0570,Domiciliary Care Worker,Referral,2025-09-18,,,,,,,
+C0571,Healthcare Assistant,Facebook,2026-02-12,2026-02-16,2026-02-18,2026-02-19,2026-03-11,2026-03-18,2026-04-02,2026-04-03
+C0572,Healthcare Assistant,Indeed,2026-04-23,,,,,,,
+C0573,Domiciliary Care Worker,Indeed,2026-04-13,,,,,,,
+C0574,Domiciliary Care Worker,Indeed,2025-04-12,2025-04-13,2025-04-19,2025-04-21,2025-04-29,2025-05-01,2025-05-16,2025-05-27
+C0575,Domiciliary Care Worker,facebook,2025-01-13,2025-01-17,,,,,,
+C0576,Domiciliary Care Worker,Indeed,2025-09-05,2025-09-08,2025-09-17,,,,,
+C0577,Domiciliary Care Worker,Referral,2025-01-17,2025-01-19,2025-01-23,2025-01-24,2025-02-03,2025-02-05,2025-03-01,2025-03-03
+C0578,Domiciliary Care Worker,Website,2025-03-13,2025-03-15,,,,,,
+C0579,Domiciliary Care Worker,Agency,2025-09-26,,,,,,,
+C0580,Healthcare Assistant,Website,2025-06-11,2025-06-12,2025-06-19,2025-06-20,2025-07-10,2025-07-12,2025-07-24,2025-07-25
+C0581,Domiciliary Care Worker,Indeed,2025-04-17,2025-04-20,2025-04-23,2025-04-24,,,,
+C0582,Domiciliary Care Worker,Indeed,2026-02-20,2026-02-23,2026-02-27,2026-03-02,2026-03-18,2026-03-24,2026-04-04,2026-04-06
+C0583,,Indeed,2025-08-16,,,,,,,
+C0584,Healthcare Assistant,Indeed,2026-05-10,2026-05-13,2026-05-15,2026-05-17,2026-05-19,2026-05-21,2026-05-30,2026-05-31
+C0585,Healthcare Assistant,Indeed,2026-05-20,,,,,,,
+C0586,Domiciliary Care Worker,Indeed,2026-02-26,2026-02-28,,,,,,
+C0587,Domiciliary Care Worker,Website,2025-01-13,,,,,,,
+C0588,Healthcare Assistant,Indeed,2025-10-25,,,,,,,
+C0589,Domiciliary Care Worker,Agency,2025-02-18,2025-02-19,2025-02-23,2025-02-24,2025-03-01,2025-03-02,2025-04-13,2025-04-14
+C0590,Domiciliary Care Worker,Website,2025-02-28,2025-03-01,2025-03-11,2025-03-12,2025-03-30,2025-04-03,2025-04-16,2025-04-22
+C0591,Healthcare Assistant,Indeed,2025-09-07,,,,,,,
+C0592,Healthcare Assistant,Referral,2026-05-27,2026-05-28,2026-06-01,2026-06-03,2026-06-22,2026-06-23,2026-06-29,2026-07-01
+C0593,Domiciliary Care Worker,Referral,2025-08-07,2025-08-09,,,,,,
+C0594,Healthcare Assistant,Agency,2026-06-12,2026-06-15,,,,,,
+C0595,Healthcare Assistant,Referral,2025-01-14,2025-01-20,2025-01-21,2025-01-22,,,,
+C0596,Domiciliary Care Worker,Agency,2025-03-20,,,,,,,
+C0597,Healthcare Assistant,Facebook,2025-08-03,,,,,,,
+C0598,Healthcare Assistant,Referral,2025-06-24,2025-06-26,,,,,,
+C0599,Domiciliary Care Worker,Indeed,2025-09-03,2025-09-05,2025-09-06,2025-09-07,2025-09-20,,,
+C0600,Healthcare Assistant,Referral,2025-02-27,2025-02-28,2025-03-02,2025-03-04,2025-03-09,2025-03-13,2025-04-01,2025-04-04
+C0601,Domiciliary Care Worker,Agency,2026-01-11,,,,,,,
+C0602,Domiciliary Care Worker,Indeed,2026-05-21,2026-05-23,2026-05-28,,,,,
+C0603,Domiciliary Care Worker,Agency,2025-07-26,,,,,,,
+C0604,Domiciliary Care Worker,Indeed,2026-06-23,2026-06-24,2026-06-26,2026-06-27,,,,
+C0605,Domiciliary Care Worker,Indeed,2026-06-03,2026-06-05,2026-06-12,2026-06-13,2026-06-29,2026-07-07,2026-08-02,2026-08-03
+C0606,Healthcare Assistant,Indeed,2025-03-28,2025-04-11,2025-04-14,2025-04-15,2025-05-17,2025-05-22,2025-06-19,2025-06-23
+C0607,Domiciliary Care Worker,Referral,2026-04-09,,,,,,,
+C0608,Domiciliary Care Worker,Indeed,2025-12-15,,,,,,,
+C0609,Healthcare Assistant,Indeed,2025-06-06,,,,,,,
+C0610,Healthcare Assistant,Indeed,2025-07-07,,,,,,,
+C0611,Domiciliary Care Worker,Indeed,2026-05-24,2026-05-28,2026-05-30,2026-05-31,2026-06-25,2026-06-28,2026-07-04,2026-07-07
+C0612,Healthcare Assistant,Website,2026-01-09,,,,,,,
+C0613,Domiciliary Care Worker,Indeed,2025-01-26,,,,,,,
+C0614,Domiciliary Care Worker,Indeed,2025-07-24,,,,,,,
+C0615,Domiciliary Care Worker,Indeed,2026-06-09,,,,,,,
+C0616,Domiciliary Care Worker,Indeed,2025-01-17,2025-01-18,2025-01-26,2025-01-27,,,,
+C0617,Domiciliary Care Worker,Indeed,2025-11-08,2025-11-09,2025-11-18,2025-11-19,2025-11-21,2025-11-26,2025-12-08,2025-12-09
+C0618,Domiciliary Care Worker,Facebook,2025-04-11,,,,,,,
+C0619,Healthcare Assistant,Indeed,2026-02-05,2026-02-10,,,,,,
+C0620,Healthcare Assistant,Website,2026-03-31,2026-04-01,2026-04-04,2026-04-05,,,,
+C0621,Healthcare Assistant,Agency,2025-09-03,2025-09-04,2025-09-12,2025-09-13,2025-09-22,2025-09-25,2025-09-30,2025-10-01
+C0622,Domiciliary Care Worker,Referral,2025-01-16,,,,,,,
+C0623,Healthcare Assistant,Website,2026-05-25,,,,,,,
+C0624,Domiciliary Care Worker,Agency,2026-06-16,,,,,,,
+C0625,Domiciliary Care Worker,Website,2025-12-31,,,,,,,
+C0626,Healthcare Assistant,Indeed,2025-08-01,2025-08-02,2025-08-04,2025-08-06,2025-08-27,2025-08-28,2025-10-08,2025-10-10
+C0627,Domiciliary Care Worker,Indeed,2026-06-08,2026-06-09,2026-06-19,2026-06-20,2026-07-16,2026-07-22,2026-10-09,2026-10-12
+C0628,Domiciliary Care Worker,facebook,2025-12-20,,,,,,,
+C0629,Healthcare Assistant,Website,2025-03-21,,,,,,,
+C0630,Domiciliary Care Worker,Indeed,2026-04-29,,,,,,,
+C0631,Domiciliary Care Worker,Referral,2025-05-25,2025-05-26,2025-05-29,,,,,
+C0632,Healthcare Assistant,Indeed,2025-02-20,2025-02-23,2025-03-01,2025-03-03,2025-04-01,2025-04-04,2025-04-21,2025-04-26
+C0633,Healthcare Assistant,Website,2026-04-30,2026-05-05,2026-05-14,2026-05-15,,,,
+C0634,Healthcare Assistant,Indeed,2026-01-29,,,,,,,
+C0635,Domiciliary Care Worker,Indeed,2025-05-07,2025-05-08,,,,,,
+C0636,Domiciliary Care Worker,Agency,2026-06-13,2026-06-14,2026-06-18,,,,,
+C0637,Healthcare Assistant,Indeed,2025-08-29,2025-08-31,2025-09-06,2025-09-07,2025-09-09,2025-09-10,2025-09-21,2025-09-28
+C0638,,Indeed,2025-08-11,,,,,,,
+C0639,Domiciliary Care Worker,Indeed,2025-07-08,2025-07-12,,,,,,
+C0640,Healthcare Assistant,Indeed,2025-09-02,2025-09-03,,,,,,
+C0641,Healthcare Assistant,Facebook,2026-02-04,2026-02-05,2026-02-06,,,,,
+C0642,Healthcare Assistant,Indeed,2026-05-22,2026-05-23,,,,,,
+C0643,Healthcare Assistant,Facebook,2025-02-05,,,,,,,
+C0644,Healthcare Assistant,Indeed,2025-08-15,2025-08-17,2025-08-18,2025-08-20,2025-08-30,,,
+C0645,Healthcare Assistant,Facebook,2026-02-14,2026-02-15,2026-02-17,,,,,
+C0646,Healthcare Assistant,Indeed,2025-05-11,2025-05-18,,,,,,
+C0647,Domiciliary Care Worker,Referral,2026-02-08,2026-02-10,2026-02-13,2026-02-14,2026-02-17,2026-02-28,2026-03-21,2026-03-23
+C0648,Domiciliary Care Worker,Indeed,2025-10-19,2025-10-21,2025-10-22,2025-10-23,,,,
+C0649,Healthcare Assistant,Indeed,2026-01-29,,,,,,,
+C0650,Domiciliary Care Worker,Indeed,2026-04-06,2026-04-10,2026-04-14,2026-04-16,2026-04-18,,,
+C0651,Domiciliary Care Worker,Website,2026-02-10,,,,,,,
+C0652,Domiciliary Care Worker,indeed,2025-07-21,2025-07-25,2025-07-29,,,,,
+C0653,Healthcare Assistant,Referral,2025-10-17,2025-10-18,2025-10-23,2025-10-24,2025-11-26,2025-11-29,2025-12-15,2025-12-16
+C0654,Domiciliary Care Worker,Indeed,2026-02-19,2026-02-24,2026-02-26,2026-03-01,2026-03-13,2026-03-15,2026-05-08,2026-05-09
+C0655,Domiciliary Care Worker,Indeed,2025-08-15,2025-08-17,2025-08-19,2025-08-21,2025-09-09,2025-09-11,2025-09-14,2025-09-18
+C0656,Healthcare Assistant,Referral,2025-12-27,2025-12-28,2025-12-29,2026-01-02,2026-01-18,2026-01-21,2026-02-14,2026-02-16
+C0657,,Website,2025-03-02,2025-03-03,2025-03-06,,,,,
+C0658,Domiciliary Care Worker,Indeed,2025-12-31,2026-01-01,2026-01-03,2026-01-04,2026-01-10,2026-01-20,2026-02-12,2026-02-13
+C0659,Domiciliary Care Worker,Referral,2025-03-03,2025-03-10,,,,,,
+C0660,Domiciliary Care Worker,Agency,2025-08-23,2025-08-25,,,,,,
+C0661,Domiciliary Care Worker,Indeed,2026-04-12,2026-04-13,2026-04-16,,,,,
+C0662,Healthcare Assistant,Indeed,2026-04-21,2026-04-24,2026-04-25,,,,,
+C0663,Healthcare Assistant,Referral,2025-04-24,2025-04-26,,,,,,
+C0664,Healthcare Assistant,Agency,2025-01-14,2025-01-16,2025-01-21,2025-01-22,2025-01-27,2025-01-30,2025-02-10,2025-02-12
+C0665,Domiciliary Care Worker,Referral,2025-07-11,2025-07-14,2025-07-18,2025-07-19,2025-08-04,2025-08-09,2025-08-16,2025-08-19
+C0666,Domiciliary Care Worker,Facebook,2026-04-01,,,,,,,
+C0667,Domiciliary Care Worker,Indeed,2026-04-30,2026-05-02,2026-05-06,,,,,
+C0668,Domiciliary Care Worker,Indeed,2025-08-07,2025-08-08,,,,,,
+C0669,Domiciliary Care Worker,Indeed,2026-02-25,2026-02-26,2026-02-28,2026-03-02,2026-03-19,2026-03-20,2026-04-14,2026-04-15
+C0670,Healthcare Assistant,Indeed,2025-09-28,2025-10-05,2025-10-14,2025-10-18,2025-10-21,2025-10-27,2025-11-04,2025-11-05
+C0671,Domiciliary Care Worker,Indeed,2026-04-30,2026-05-09,,,,,,
+C0672,Domiciliary Care Worker,Facebook,2025-06-14,2025-06-15,2025-06-16,2025-06-17,,,,
+C0673,Domiciliary Care Worker,Indeed,2025-11-12,2025-11-14,2025-11-17,2025-11-21,2025-11-29,2025-11-30,,
+C0674,Healthcare Assistant,Referral,2025-07-15,2025-07-20,2025-07-26,2025-07-27,2025-08-06,2025-08-07,2025-08-20,2025-08-25
+C0675,Healthcare Assistant,Agency,2026-03-24,2026-03-26,2026-03-30,2026-03-31,,,,
+C0676,Healthcare Assistant,Indeed,2026-04-12,2026-04-16,2026-04-26,,,,,
+C0677,Healthcare Assistant,Indeed,2025-06-12,2025-06-17,2025-06-23,2025-06-25,2025-07-10,2025-07-11,2025-08-07,2025-08-09
+C0678,Domiciliary Care Worker,Referral,2025-04-23,2025-04-29,2025-05-03,2025-05-04,2025-05-17,2025-05-24,2025-06-02,2025-06-10
+C0679,Domiciliary Care Worker,Indeed,2025-09-26,2025-10-04,2025-10-08,2025-10-09,2025-10-18,2025-10-20,2025-11-02,2025-11-03
+C0680,Domiciliary Care Worker,Website,2025-04-24,2025-04-25,2025-04-27,2025-04-28,2025-05-15,2025-05-19,2025-05-29,2025-06-03
+C0681,Domiciliary Care Worker,Facebook,2026-03-04,,,,,,,
+C0682,Healthcare Assistant,Facebook,2025-10-22,2025-10-29,,,,,,
+C0683,Healthcare Assistant,Indeed,2025-03-24,,,,,,,
+C0684,Domiciliary Care Worker,Agency,2025-12-26,,,,,,,
+C0685,Domiciliary Care Worker,Referral,2025-02-13,,,,,,,
+C0686,Healthcare Assistant,Facebook,2025-12-31,,,,,,,
+C0687,Domiciliary Care Worker,Indeed,2025-03-15,2025-03-16,,,,,,
+C0688,Domiciliary Care Worker,Indeed,2025-05-05,2025-05-09,2025-05-11,2025-05-12,2025-05-29,2025-06-02,,
+C0689,Domiciliary Care Worker,Referral,2025-11-16,,,,,,,
+C0690,Domiciliary Care Worker,Facebook,2026-05-28,,,,,,,
+C0691,Domiciliary Care Worker,Facebook,2025-11-13,2025-11-18,2025-11-25,2025-11-26,,,,
+C0692,Domiciliary Care Worker,Indeed,2026-04-18,2026-04-19,2026-04-25,,,,,
+C0693,Healthcare Assistant,Agency,2025-04-14,2025-04-16,,,,,,
+C0694,Healthcare Assistant,Indeed,2025-03-22,,,,,,,
+C0695,Healthcare Assistant,Referral,2025-10-01,2025-10-02,,,,,,
+C0696,Domiciliary Care Worker,Indeed,2025-09-13,,,,,,,
+C0697,Healthcare Assistant,Referral,2025-07-05,2025-07-11,2025-07-14,2025-07-15,2025-07-28,2025-07-31,2025-08-05,2025-08-08
+C0698,Domiciliary Care Worker,Agency,2025-09-23,2025-09-27,2025-09-30,2025-10-01,2025-10-27,2025-10-29,2025-11-09,2025-11-14
+C0699,Domiciliary Care Worker,Website,2025-05-16,2025-05-22,2025-06-07,,,,,
+C0700,Healthcare Assistant,Indeed,2026-02-09,2026-02-10,,,,,,
+C0701,Domiciliary Care Worker,Facebook,2026-05-25,2026-05-31,2026-06-05,2026-06-06,2026-07-05,2026-07-06,2026-09-04,2026-09-05
+C0702,Domiciliary Care Worker,Agency,2025-01-29,,,,,,,
+C0703,Healthcare Assistant,Indeed,2026-02-16,,,,,,,
+C0704,Domiciliary Care Worker,Referral,2025-02-12,,,,,,,
+C0705,Domiciliary Care Worker,Referral ,2025-09-29,2025-09-30,2025-10-03,,,,,
+C0706,Domiciliary Care Worker,Facebook,2025-06-01,,,,,,,
+C0707,Domiciliary Care Worker,Indeed,2025-09-24,2025-09-26,2025-10-05,,,,,
+C0708,Domiciliary Care Worker,Indeed ,2025-01-17,2025-01-24,2025-01-29,2025-02-03,,,,
+C0709,Healthcare Assistant,Facebook,2025-12-07,2025-12-11,2025-12-14,2025-12-15,2026-01-03,2026-01-04,2026-01-07,2026-01-08
+C0710,Domiciliary Care Worker,Referral,2025-02-12,,,,,,,
+C0711,Domiciliary Care Worker,Referral,2025-04-15,,,,,,,
+C0712,Domiciliary Care Worker,Website,2025-01-18,2025-01-26,2025-02-03,2025-02-07,2025-02-11,2025-02-19,2025-03-02,2025-03-03
+C0713,Healthcare Assistant,Indeed,2025-11-19,2025-11-20,2025-11-23,2025-11-25,2025-12-02,2025-12-04,2026-01-02,2026-01-06
+C0714,Healthcare Assistant,Agency ,2026-03-19,2026-03-20,2026-03-31,2026-04-01,2026-04-21,2026-04-25,2026-05-21,2026-05-22
+C0715,Healthcare Assistant,Referral,2025-08-10,2025-08-14,,,,,,
+C0716,Domiciliary Care Worker,Indeed,2026-01-11,2026-01-12,2026-01-13,2026-01-14,,,,
+C0717,Healthcare Assistant,Website,2025-06-06,,,,,,,
+C0718,Domiciliary Care Worker,Referral,2025-05-05,2025-05-09,2025-05-10,2025-05-11,2025-05-21,2025-05-27,2025-06-18,2025-06-19
+C0719,Domiciliary Care Worker,Facebook,2025-07-27,2025-07-29,2025-08-03,2025-08-04,2025-08-10,2025-08-11,2025-08-23,2025-08-27
+C0720,Healthcare Assistant,Agency,2026-02-12,2026-02-14,,,,,,
+C0721,Healthcare Assistant,Facebook,2025-03-15,,,,,,,
+C0722,Domiciliary Care Worker,Indeed,2026-06-12,,,,,,,
+C0723,Healthcare Assistant,Indeed,2025-12-13,2025-12-16,,,,,,
+C0724,Domiciliary Care Worker,Facebook,2026-03-05,2026-03-08,,,,,,
+C0725,Healthcare Assistant,Website,2025-08-03,2025-08-04,,,,,,
+C0726,Domiciliary Care Worker,Indeed,2025-12-04,2025-12-06,,,,,,
+C0727,Healthcare Assistant,Facebook,2025-04-04,,,,,,,
+C0728,Healthcare Assistant,Facebook,2026-01-21,2026-01-23,,,,,,
+C0729,Healthcare Assistant,Indeed,2026-06-15,2026-06-16,2026-06-21,2026-06-22,2026-06-29,2026-07-01,2026-07-13,2026-07-14
+C0730,Healthcare Assistant,Referral,2026-05-15,,,,,,,
+C0731,Domiciliary Care Worker,Indeed,2026-02-15,2026-02-16,,,,,,
+C0732,Domiciliary Care Worker,Indeed,2025-05-03,2025-05-06,2025-05-09,2025-05-11,2025-05-16,2025-05-20,2025-06-12,2025-06-15
+C0733,Healthcare Assistant,Indeed,2025-11-12,2025-11-16,,,,,,
+C0734,Domiciliary Care Worker,Indeed,2026-03-28,,,,,,,
+C0735,Healthcare Assistant,Referral,2026-02-26,2026-03-01,2026-03-03,2026-03-05,2026-03-09,2026-03-12,2026-03-22,2026-03-23
+C0736,Healthcare Assistant,Website,2026-06-15,2026-06-20,,,,,,
+C0737,Healthcare Assistant,Indeed,2025-07-10,2025-07-15,2025-07-16,2025-07-20,2025-08-06,2025-08-12,2025-08-17,2025-08-18
+C0738,Domiciliary Care Worker,Indeed,2025-12-06,2025-12-07,,,,,,
+C0739,Healthcare Assistant,Indeed,2025-07-04,,,,,,,
+C0740,Healthcare Assistant,Indeed,2025-11-04,2025-11-08,2025-11-23,2025-11-24,2025-12-05,2025-12-07,2025-12-15,2025-12-18
+C0741,Domiciliary Care Worker,Indeed,2025-06-28,2025-07-02,2025-07-06,2025-07-07,2025-07-17,2025-07-24,2025-08-21,2025-08-23
+C0742,Domiciliary Care Worker,Agency,2025-05-16,2025-05-18,,,,,,
+C0743,Domiciliary Care Worker,Referral,2026-06-11,,,,,,,
+C0744,Healthcare Assistant,Agency,2025-05-17,2025-05-22,2025-05-23,2025-05-24,2025-06-04,2025-06-07,2025-06-10,2025-06-13
+C0745,Domiciliary Care Worker,Indeed,2026-03-22,2026-03-23,2026-03-25,2026-03-26,,,,
+C0746,Domiciliary Care Worker,Indeed,2026-04-23,2026-04-25,,,,,,
+C0747,Domiciliary Care Worker,Indeed,2025-04-24,2025-04-28,,,,,,
+C0748,Healthcare Assistant,Website,2025-02-17,2025-02-21,2025-02-22,2025-02-23,2025-03-01,2025-03-02,2025-03-12,2025-03-13
+C0749,Healthcare Assistant,Referral,2025-05-22,2025-05-25,2025-05-27,2025-05-28,,,,
+C0750,Domiciliary Care Worker,Indeed,2026-01-23,,,,,,,
+C0751,Domiciliary Care Worker,Indeed,2025-06-09,2025-06-17,2025-06-24,2025-06-25,,,,
+C0752,Domiciliary Care Worker,Website,2025-12-11,,,,,,,
+C0753,Domiciliary Care Worker,Referral,2025-08-19,2025-08-20,2025-08-31,,,,,
+C0754,Domiciliary Care Worker,Facebook,2025-05-07,2025-05-08,,,,,,
+C0755,Healthcare Assistant,Agency,2026-01-28,2026-01-30,2026-02-07,,,,,
+C0756,Domiciliary Care Worker,Indeed,2025-06-23,2025-07-01,,,,,,
+C0757,Healthcare Assistant,facebook,2025-09-30,2025-10-01,2025-10-03,2025-10-06,,,,
+C0758,Domiciliary Care Worker,Agency,2025-12-30,2026-01-01,2026-01-03,2026-01-04,2026-01-31,,,
+C0759,Healthcare Assistant,Indeed,2026-05-05,2026-05-12,2026-05-15,2026-05-16,2026-05-29,2026-05-31,2026-06-14,2026-06-16
+C0760,Domiciliary Care Worker,Referral,2025-01-03,,,,,,,
+C0761,Domiciliary Care Worker,Indeed,2025-05-10,2025-05-11,2025-05-12,2025-05-13,2025-06-04,2025-06-07,2025-06-13,2025-06-14
+C0762,Healthcare Assistant,Website,2025-05-23,,,,,,,
+C0763,Domiciliary Care Worker,Facebook,2026-06-16,,,,,,,
+C0764,Healthcare Assistant,Facebook,2026-04-28,2026-04-30,2026-05-01,,,,,
+C0765,Domiciliary Care Worker,Indeed,2025-02-01,2025-02-03,,,,,,
+C0766,Domiciliary Care Worker,Facebook,2025-10-14,2025-10-17,,,,,,
+C0767,Domiciliary Care Worker,Indeed,2025-07-20,2025-07-21,2025-07-30,2025-07-31,2025-08-18,2025-08-19,2025-09-21,2025-09-27
+C0768,Domiciliary Care Worker,Indeed,2025-12-23,2025-12-27,2025-12-31,,,,,
+C0769,Healthcare Assistant,Indeed,2026-02-26,,,,,,,
+C0770,Domiciliary Care Worker,Agency,2025-01-03,2025-01-04,2025-01-11,2025-01-12,,,,
+C0771,Healthcare Assistant,Indeed,2025-08-13,2025-08-17,2025-08-31,,,,,
+C0772,Healthcare Assistant,Indeed,2025-09-12,2025-09-15,2025-09-16,2025-09-21,2025-10-04,,,
+C0773,Healthcare Assistant,Indeed,2025-11-07,,,,,,,
+C0774,Domiciliary Care Worker,Indeed,2025-01-01,2025-01-05,,,,,,
+C0775,Healthcare Assistant,Indeed,2026-05-24,,,,,,,
+C0776,Domiciliary Care Worker,Facebook,2025-05-09,2025-05-13,,,,,,
+C0777,Domiciliary Care Worker,Website,2025-10-19,,,,,,,
+C0778,Healthcare Assistant,Indeed,2025-12-20,2025-12-21,,,,,,
+C0779,Domiciliary Care Worker,Indeed,2025-07-18,2025-07-20,2025-07-29,,,,,
+C0780,Domiciliary Care Worker,Indeed ,2025-02-28,2025-03-05,2025-03-07,2025-03-10,2025-03-17,2025-03-20,2025-04-11,2025-04-12
+C0781,Healthcare Assistant,Referral,2025-04-18,2025-04-22,,,,,,
+C0782,,Facebook,2025-01-20,,,,,,,
+C0783,Healthcare Assistant,Indeed,2025-03-06,2025-03-16,2025-03-17,2025-03-18,2025-03-25,2025-04-01,2025-04-03,2025-04-04
+C0784,Domiciliary Care Worker,Indeed,2025-07-01,,,,,,,
+C0785,Domiciliary Care Worker,Facebook,2025-12-13,2025-12-21,2025-12-22,2025-12-25,2025-12-26,2026-01-02,2026-01-27,2026-01-28
+C0786,Domiciliary Care Worker,Facebook,2025-07-03,,,,,,,
+C0787,Domiciliary Care Worker,indeed,2025-10-26,2025-10-28,,,,,,
+C0788,Healthcare Assistant,Indeed,2026-03-04,,,,,,,
+C0789,Domiciliary Care Worker,Referral,2025-06-18,,,,,,,
+C0790,Domiciliary Care Worker,Agency,2026-02-10,2026-02-11,2026-02-15,2026-02-16,,,,
+C0791,Healthcare Assistant,Facebook,2025-12-09,,,,,,,
+C0792,Healthcare Assistant,Indeed,2025-01-13,,,,,,,
+C0793,Domiciliary Care Worker,Facebook,2026-05-30,,,,,,,
+C0794,Domiciliary Care Worker,Indeed,2026-03-15,2026-03-16,,,,,,
+C0795,Domiciliary Care Worker,Indeed,2025-05-15,,,,,,,
+C0796,Healthcare Assistant,Website,2025-10-28,2025-10-30,,,,,,
+C0797,Domiciliary Care Worker,Indeed,2025-12-22,2025-12-23,2025-12-24,2025-12-26,,,,
+C0798,Domiciliary Care Worker,Facebook,2025-12-27,,,,,,,
+C0799,Healthcare Assistant,Facebook,2025-07-05,,,,,,,
+C0800,Healthcare Assistant,Indeed,2025-07-21,2025-07-23,2025-07-25,2025-07-26,,,,
+C0801,Healthcare Assistant,Indeed,2026-05-05,,,,,,,
+C0802,Healthcare Assistant,Referral,2026-04-20,2026-04-23,,,,,,
+C0803,Healthcare Assistant,Indeed,2025-12-29,2025-12-30,2026-01-04,2026-01-06,2026-02-13,2026-02-18,2026-03-03,
+C0804,Domiciliary Care Worker,Agency,2025-10-08,2025-10-10,2025-10-17,2025-10-19,2025-10-23,2025-10-24,2025-11-05,2025-11-09
+C0805,Domiciliary Care Worker,Indeed,2026-01-02,2026-01-03,,,,,,
+C0806,Domiciliary Care Worker,Referral,2025-03-06,2025-03-09,2025-03-17,2025-03-18,2025-03-24,2025-03-27,2025-05-05,2025-05-09
+C0807,Domiciliary Care Worker,Facebook,2026-03-24,,,,,,,
+C0808,Healthcare Assistant,Indeed,2026-01-17,,,,,,,
+C0809,Healthcare Assistant,Indeed,2026-04-23,2026-04-27,2026-05-04,,,,,
+C0810,Healthcare Assistant,Indeed,2026-02-26,,,,,,,
+C0811,Domiciliary Care Worker,Agency,2026-04-30,,,,,,,
+C0812,Healthcare Assistant,Website,2025-06-20,,,,,,,
+C0813,Healthcare Assistant,Indeed,2026-03-29,2026-04-01,,,,,,
+C0814,Domiciliary Care Worker,Facebook,2025-06-12,2025-06-13,2025-06-22,,,,,
+C0815,Domiciliary Care Worker,Website,2025-11-22,,,,,,,
+C0816,Healthcare Assistant,Website,2025-04-18,,,,,,,
+C0817,Healthcare Assistant,Indeed,2025-08-21,,,,,,,
+C0818,Domiciliary Care Worker,Indeed,2025-12-26,,,,,,,
+C0819,Domiciliary Care Worker,Referral,2025-08-19,2025-08-23,,,,,,
+C0820,Domiciliary Care Worker,Facebook,2025-03-08,,,,,,,
+C0821,Domiciliary Care Worker,Website,2026-02-17,2026-02-18,2026-02-21,2026-02-22,2026-03-01,2026-03-07,2026-03-17,2026-03-19
+C0822,Healthcare Assistant,Agency,2025-10-12,2025-10-13,2025-10-29,2025-10-30,2025-11-19,2025-11-23,2025-12-28,2026-01-01
+C0823,Healthcare Assistant,Facebook,2025-01-14,2025-01-20,,,,,,
+C0824,Domiciliary Care Worker,Facebook,2025-09-26,2025-09-28,2025-10-05,2025-10-06,2025-10-15,,,
+C0825,Domiciliary Care Worker,Referral,2025-12-31,2026-01-05,,,,,,
+C0826,Domiciliary Care Worker,Indeed,2025-12-16,2025-12-17,2025-12-19,2025-12-20,2025-12-31,2026-01-01,2026-01-15,2026-01-16
+C0827,Domiciliary Care Worker,Referral,2025-09-08,2025-09-09,2025-09-12,,,,,
+C0828,Domiciliary Care Worker,Indeed,2025-03-02,2025-03-05,2025-03-08,,,,,
+C0829,Healthcare Assistant,Indeed,2026-05-11,,,,,,,
+C0830,Healthcare Assistant,Indeed,2025-05-29,2025-05-31,,,,,,
+C0831,Healthcare Assistant,Referral,2025-10-22,2025-10-24,2025-10-27,2025-10-28,2025-11-26,2025-12-02,2025-12-22,2025-12-26
+C0832,Healthcare Assistant,Referral,2026-01-16,2026-01-18,,,,,,
+C0833,Healthcare Assistant,Facebook,2025-05-06,2025-05-09,,,,,,
+C0834,Domiciliary Care Worker,Facebook,2026-01-11,2026-01-12,,,,,,
+C0835,Healthcare Assistant,Indeed,2025-09-21,2025-09-22,,,,,,
+C0836,Healthcare Assistant,Facebook,2026-05-12,2026-05-17,2026-05-19,2026-05-20,2026-05-29,2026-06-03,,
+C0837,Healthcare Assistant,Website,2026-05-16,2026-05-20,2026-05-22,,,,,
+C0838,Domiciliary Care Worker,Indeed,2026-02-22,2026-02-23,2026-02-24,2026-02-25,2026-03-08,,,
+C0839,Domiciliary Care Worker,Referral,2025-12-04,2025-12-06,2025-12-09,2025-12-10,2025-12-20,2025-12-22,2026-01-06,2026-01-07
+C0840,Domiciliary Care Worker,Facebook,2025-08-17,2025-08-18,,,,,,
+C0841,Domiciliary Care Worker,Facebook,2026-03-25,,,,,,,
+C0842,Domiciliary Care Worker,Agency,2025-08-22,,,,,,,
+C0843,Domiciliary Care Worker,Indeed,2025-01-25,,,,,,,
+C0844,Domiciliary Care Worker,Facebook,2025-07-24,2025-07-27,2025-08-03,2025-08-04,,,,
+C0845,Domiciliary Care Worker,Referral,2025-08-27,2025-08-31,,,,,,
+C0846,Domiciliary Care Worker,Facebook,2025-02-08,2025-02-10,2025-02-11,,,,,
+C0847,Healthcare Assistant,Indeed,2026-04-13,2026-04-14,,,,,,
+C0848,Domiciliary Care Worker,Agency,2025-05-25,2025-05-26,2025-05-28,2025-05-29,2025-06-10,2025-06-16,2025-06-25,2025-06-26
+C0849,Domiciliary Care Worker,Website,2026-01-10,,,,,,,
+C0850,Domiciliary Care Worker,Indeed,2026-04-17,,,,,,,
+C0851,Healthcare Assistant,Facebook,2025-06-01,2025-06-02,,,,,,
+C0852,Domiciliary Care Worker,Referral,2025-03-18,2025-03-21,2025-03-27,2025-03-28,2025-04-22,2025-04-24,2025-05-05,2025-05-08
+C0853,Domiciliary Care Worker,Facebook,2025-10-17,2025-10-22,,,,,,
+C0854,Healthcare Assistant,Facebook,2025-05-20,2025-05-21,2025-06-05,2025-06-06,2025-06-24,2025-07-01,2025-07-12,2025-07-13
+C0855,Healthcare Assistant,Referral,2025-11-03,,,,,,,
+C0856,Healthcare Assistant,Indeed,2025-05-15,2025-05-18,2025-05-19,2025-05-22,2025-05-23,2025-05-30,2025-06-14,2025-06-17
+C0857,Healthcare Assistant,Agency,2025-07-19,,,,,,,
+C0858,Healthcare Assistant,Facebook,2025-10-29,2025-11-01,2025-11-04,2025-11-05,2025-11-12,2025-11-17,,
+C0859,Healthcare Assistant,Indeed,2025-11-13,2025-11-14,2025-11-16,2025-11-17,2025-12-07,2025-12-15,2025-12-21,2025-12-22
+C0860,Domiciliary Care Worker,Agency,2025-08-21,2025-08-22,2025-08-27,2025-08-28,2025-09-07,2025-09-15,2025-09-29,2025-09-30
+C0861,Domiciliary Care Worker,Referral,2025-10-22,2025-10-25,2025-11-02,2025-11-06,2025-11-09,2025-11-15,2025-11-29,2025-11-30
+C0862,Domiciliary Care Worker,Facebook,2025-09-03,2025-09-06,2025-09-10,2025-09-12,2025-09-14,2025-09-16,2025-10-30,
+C0863,Healthcare Assistant,Agency,2025-11-21,2025-11-22,2025-11-24,2025-11-25,2025-12-14,2025-12-17,2026-01-02,2026-01-03
+C0864,Domiciliary Care Worker,Agency,2025-11-30,2025-12-04,,,,,,
+C0865,Domiciliary Care Worker,Facebook,2025-05-20,2025-05-22,,,,,,
+C0866,Domiciliary Care Worker,Agency,2025-04-24,2025-04-25,,,,,,
+C0867,Healthcare Assistant,Website,2025-10-06,2025-10-07,,,,,,
+C0868,Domiciliary Care Worker,Website,2025-10-05,2025-10-08,2025-10-13,2025-10-14,2025-10-18,2025-10-31,2025-11-19,2025-11-20
+C0869,Domiciliary Care Worker,Agency,2025-11-06,,,,,,,
+C0870,Domiciliary Care Worker,Indeed,2025-01-23,,,,,,,
+C0871,Domiciliary Care Worker,Referral,2026-02-20,2026-02-24,2026-02-28,,,,,
+C0872,Domiciliary Care Worker,Agency,2025-12-28,2026-01-01,,,,,,
+C0873,Healthcare Assistant,Indeed,2025-12-09,,,,,,,
+C0874,Domiciliary Care Worker,Website,2026-06-22,,,,,,,
+C0875,Domiciliary Care Worker,Indeed,2025-02-09,,,,,,,
+C0876,Healthcare Assistant,Website,2025-06-04,2025-06-06,2025-06-07,2025-06-08,2025-06-15,2025-06-17,2025-06-30,2025-07-02
+C0877,Healthcare Assistant,Agency,2025-03-07,2025-03-08,2025-03-11,2025-03-12,2025-03-19,2025-03-27,2025-04-02,2025-04-03
+C0878,Healthcare Assistant,Referral,2026-04-16,2026-04-18,,,,,,
+C0879,Domiciliary Care Worker,Indeed,2025-05-10,2025-05-15,2025-05-18,2025-05-19,2025-05-23,2025-05-26,2025-06-24,2025-06-25
+C0880,Healthcare Assistant,Indeed,2025-09-01,,,,,,,
+C0881,Domiciliary Care Worker,Facebook,2025-07-15,2025-07-16,2025-07-17,2025-07-18,2025-08-16,2025-08-19,,
+C0882,Healthcare Assistant,Facebook,2025-09-16,,,,,,,
+C0883,,Indeed,2025-10-27,,,,,,,
+C0884,Domiciliary Care Worker,Facebook,2026-03-23,,,,,,,
+C0885,Domiciliary Care Worker,Agency,2025-07-01,,,,,,,
+C0886,Healthcare Assistant,Referral,2025-10-02,,,,,,,
+C0887,Healthcare Assistant,Indeed,2025-05-01,2025-05-03,,,,,,
+C0888,Domiciliary Care Worker,Referral,2026-05-23,2026-05-24,,,,,,
+C0889,Domiciliary Care Worker,Indeed,2026-04-24,2026-04-25,2026-04-28,2026-05-01,2026-05-26,2026-05-29,2026-06-16,2026-06-17
+C0890,Healthcare Assistant,Indeed,2025-04-07,,,,,,,
+C0891,Domiciliary Care Worker,Indeed,2025-10-28,2025-11-03,,,,,,
+C0892,Domiciliary Care Worker,Indeed,2025-01-30,,,,,,,
+C0893,Healthcare Assistant,Website,2026-04-07,2026-04-09,2026-04-15,2026-04-17,2026-05-20,2026-05-25,2026-06-15,2026-06-16
+C0894,Healthcare Assistant,Indeed,2025-09-22,2025-09-25,2025-09-27,2025-09-28,2025-10-23,2025-10-24,2025-11-05,2025-11-11
+C0895,Domiciliary Care Worker,Indeed,2026-06-16,,,,,,,
+C0896,Domiciliary Care Worker,Facebook,2025-09-22,,,,,,,
+C0897,Domiciliary Care Worker,Facebook,2025-05-16,2025-05-18,2025-05-26,2025-05-27,2025-06-23,2025-06-28,,
+C0898,Healthcare Assistant,Indeed,2025-11-08,,,,,,,
+C0899,Domiciliary Care Worker,Agency,2026-05-16,2026-05-17,2026-05-22,2026-05-23,2026-06-08,2026-06-09,,
+C0900,Healthcare Assistant,Indeed,2026-06-01,2026-06-02,,,,,,
+C0901,Healthcare Assistant,Indeed,2026-04-16,2026-04-20,2026-04-24,,,,,
+C0902,Healthcare Assistant,Indeed,2026-03-22,2026-03-24,2026-03-26,2026-03-27,2026-04-01,2026-04-02,2026-04-10,2026-04-11
+C0903,Domiciliary Care Worker,Website,2025-10-10,2025-10-17,2025-11-01,2025-11-02,2025-11-09,2025-11-12,2025-11-19,2025-11-22
+C0904,Domiciliary Care Worker,Website,2026-01-03,2026-01-04,2026-01-07,2026-01-10,2026-01-13,2026-01-15,2026-02-06,2026-02-07
+C0905,Healthcare Assistant,Indeed,2025-11-13,2025-11-14,,,,,,
+C0906,Domiciliary Care Worker,Website,2025-05-25,2025-05-28,2025-05-29,2025-05-30,2025-06-07,2025-06-09,2025-06-27,2025-07-01
+C0907,Healthcare Assistant,Indeed,2026-06-09,2026-06-10,,,,,,
+C0908,Domiciliary Care Worker,Indeed,2026-04-08,2026-04-13,2026-04-28,2026-04-29,,,,
+C0909,Healthcare Assistant,Website,2026-02-19,2026-02-20,2026-02-24,2026-02-25,2026-03-04,2026-03-05,2026-03-17,2026-03-22
+C0910,,Facebook,2025-10-08,2025-10-10,,,,,,
+C0911,Healthcare Assistant,Referral,2025-04-24,2025-04-25,,,,,,
+C0912,Healthcare Assistant,Facebook,2025-02-02,2025-02-04,2025-02-11,2025-02-12,2025-02-16,2025-02-22,2025-02-25,2025-02-26
+C0913,Healthcare Assistant,Indeed,2026-01-09,2026-01-10,,,,,,
+C0914,Domiciliary Care Worker,Indeed,2025-08-22,2025-08-23,2025-08-31,2025-09-01,,,,
+C0915,Healthcare Assistant,Facebook,2026-06-16,2026-06-17,2026-06-21,2026-06-22,,,,
+C0916,Healthcare Assistant,Indeed,2025-03-02,2025-03-03,2025-03-06,2025-03-07,,,,
+C0917,Healthcare Assistant,Indeed,2025-06-25,,,,,,,
+C0918,Domiciliary Care Worker,Indeed,2025-03-21,2025-03-24,2025-03-25,2025-03-27,2025-03-29,2025-04-01,2025-04-11,2025-04-16
+C0919,Healthcare Assistant,Referral,2025-07-18,,,,,,,
+C0920,Domiciliary Care Worker,Website,2025-11-11,2025-11-12,2025-11-14,,,,,
+C0921,Healthcare Assistant,Website,2026-04-13,2026-04-16,2026-04-20,,,,,
+C0922,Healthcare Assistant,Indeed,2025-07-29,2025-07-30,2025-07-31,,,,,
+C0923,Healthcare Assistant,Facebook,2025-07-20,2025-07-26,2025-08-06,,,,,
+C0924,Domiciliary Care Worker,Website,2025-05-26,,,,,,,
+C0925,Domiciliary Care Worker,Indeed,2025-01-23,2025-01-26,2025-02-02,2025-02-03,2025-02-24,,,
+C0926,Domiciliary Care Worker,Indeed,2025-03-05,2025-03-06,,,,,,
+C0927,Healthcare Assistant,Facebook,2025-09-27,2025-09-29,2025-09-30,2025-10-01,2025-11-04,2025-11-08,,
+C0928,Domiciliary Care Worker,Indeed,2026-04-09,2026-04-12,2026-04-13,2026-04-16,,,,
+C0929,Domiciliary Care Worker,Indeed,2025-01-06,2025-01-08,2025-01-12,2025-01-13,,,,
+C0930,Domiciliary Care Worker,Indeed,2026-02-12,2026-02-17,2026-02-20,2026-02-22,2026-03-05,2026-03-06,2026-04-15,2026-04-17
+C0931,Domiciliary Care Worker,Facebook,2025-06-21,2025-06-29,2025-07-01,2025-07-04,2025-07-21,2025-07-26,2025-08-08,2025-08-09
+C0932,Healthcare Assistant,Indeed,2025-12-30,2025-12-31,2026-01-03,2026-01-05,2026-01-18,2026-01-22,2026-02-04,2026-02-05
+C0933,Domiciliary Care Worker,Indeed,2025-04-12,2025-04-19,,,,,,
+C0934,Domiciliary Care Worker,Agency,2025-05-10,2025-05-15,2025-05-21,2025-05-22,2025-06-13,2025-06-16,2025-06-26,2025-06-27
+C0935,Healthcare Assistant,Indeed,2026-02-14,2026-02-15,2026-02-23,2026-02-25,2026-02-27,2026-02-28,2026-03-06,2026-03-07
+C0936,Domiciliary Care Worker,Website,2026-06-12,,,,,,,
+C0937,Domiciliary Care Worker,Indeed,2026-02-01,,,,,,,
+C0938,Domiciliary Care Worker,Website,2026-03-17,,,,,,,
+C0939,Healthcare Assistant,Indeed,2026-03-07,,,,,,,
+C0940,Domiciliary Care Worker,Facebook,2025-07-31,,,,,,,
+C0941,Domiciliary Care Worker,Referral,2026-04-14,2026-04-15,2026-04-18,2026-04-19,2026-05-13,2026-05-18,2026-06-02,2026-06-04
+C0942,Domiciliary Care Worker,Indeed,2026-06-24,2026-06-25,2026-06-27,2026-07-02,2026-07-20,2026-07-21,2026-08-07,2026-08-08
+C0943,Healthcare Assistant,Indeed,2025-06-07,2025-06-08,,,,,,
+C0944,Healthcare Assistant,Indeed,2025-02-28,2025-03-03,2025-03-16,,,,,
+C0945,Healthcare Assistant,Indeed,2025-10-11,2025-10-12,,,,,,
+C0946,Healthcare Assistant,Indeed,2025-05-08,2025-05-12,2025-05-17,2025-05-18,2025-06-01,2025-06-04,2025-06-23,2025-06-27
+C0947,Domiciliary Care Worker,Facebook,2025-07-03,2025-07-07,,,,,,
+C0948,Domiciliary Care Worker,Indeed,2025-02-07,2025-02-08,,,,,,
+C0949,Healthcare Assistant,Referral,2026-02-18,2026-02-20,,,,,,
+C0950,Healthcare Assistant,Indeed,2026-05-06,2026-05-09,2026-05-15,2026-05-16,,,,
+C0951,Healthcare Assistant,Indeed,2025-09-25,2025-09-27,2025-09-30,2025-10-01,2025-10-12,2025-10-16,2025-11-01,2025-11-02
+C0952,Domiciliary Care Worker,Website,2026-05-03,2026-05-09,2026-05-18,2026-05-21,2026-06-09,2026-06-12,2026-06-16,
+C0953,Healthcare Assistant,Facebook,2025-03-21,2025-03-22,,,,,,
+C0954,Domiciliary Care Worker,Facebook,2025-12-25,,,,,,,
+C0955,Healthcare Assistant,Facebook,2025-11-05,2025-11-06,,,,,,
+C0956,Domiciliary Care Worker,Indeed,2025-12-13,,,,,,,
+C0957,Domiciliary Care Worker,Website,2025-12-11,2025-12-15,2025-12-16,2025-12-17,,,,
+C0958,Domiciliary Care Worker,Indeed,2025-02-26,2025-02-28,2025-03-02,2025-03-03,,,,
+C0959,Domiciliary Care Worker,Agency,2025-10-30,2025-11-02,2025-11-05,2025-11-06,2025-11-07,2025-11-10,2025-11-18,2025-11-19
+C0960,Healthcare Assistant,Website,2025-12-03,2025-12-05,2025-12-06,2025-12-07,2025-12-08,2025-12-11,2026-01-05,2026-01-07
+C0961,Domiciliary Care Worker,Website,2025-11-23,,,,,,,
+C0962,Healthcare Assistant,Referral,2025-04-03,2025-04-04,,,,,,
+C0963,Domiciliary Care Worker,Facebook,2025-06-25,2025-06-26,,,,,,
+C0964,Healthcare Assistant,indeed,2025-10-10,2025-10-13,2025-10-15,2025-10-16,2025-11-16,2025-11-18,2025-11-23,2025-11-25
+C0965,Domiciliary Care Worker,Agency,2025-08-25,,,,,,,
+C0966,Healthcare Assistant,Agency,2025-10-14,2025-10-16,2025-10-20,2025-10-23,2025-11-03,2025-11-04,2025-11-26,2025-11-27
+C0967,Domiciliary Care Worker,Indeed,2026-05-19,2026-05-23,,,,,,
+C0968,Domiciliary Care Worker,Indeed,2025-12-20,,,,,,,
+C0969,Healthcare Assistant,Website,2025-01-09,2025-01-10,2025-01-16,2025-01-17,2025-02-02,2025-02-03,2025-04-26,2025-04-29
+C0970,Healthcare Assistant,Facebook,2025-02-26,,,,,,,
+C0971,Domiciliary Care Worker,Indeed,2026-03-27,2026-03-28,2026-03-30,2026-03-31,2026-04-16,,,
+C0972,Domiciliary Care Worker,Indeed,2025-09-29,2025-09-30,2025-10-02,,,,,
+C0973,Healthcare Assistant,Facebook,2025-02-03,2025-02-04,2025-02-06,,,,,
+C0974,Domiciliary Care Worker,Indeed,2026-02-27,2026-03-01,2026-03-05,2026-03-07,2026-03-23,2026-03-24,2026-04-22,2026-04-24
+C0975,Domiciliary Care Worker,Agency,2026-05-20,2026-05-22,2026-05-25,2026-05-26,,,,
+C0976,Healthcare Assistant,Agency,2026-06-06,2026-06-08,2026-06-09,2026-06-10,2026-06-17,2026-06-19,2026-07-03,2026-07-07
+C0977,Domiciliary Care Worker,Facebook,2025-08-14,2025-08-15,2025-08-21,2025-08-24,,,,
+C0978,Healthcare Assistant,Indeed,2026-01-17,,,,,,,
+C0979,Healthcare Assistant,Indeed,2026-03-01,2026-03-07,2026-03-08,2026-03-11,,,,
+C0980,Healthcare Assistant,Indeed,2025-01-18,2025-01-20,,,,,,
+C0981,Domiciliary Care Worker,Referral,2025-02-03,2025-02-05,2025-02-06,2025-02-07,2025-02-15,2025-02-16,2025-03-07,2025-03-08
+C0982,Healthcare Assistant,Indeed,2025-09-04,,,,,,,
+C0983,Domiciliary Care Worker,Indeed,2025-01-02,2025-01-06,2025-01-12,2025-01-13,2025-02-08,2025-02-09,2025-02-17,2025-02-18
+C0984,Healthcare Assistant,Indeed,2025-03-24,2025-03-25,,,,,,
+C0985,Healthcare Assistant,Website,2025-06-22,2025-06-27,,,,,,
+C0986,Healthcare Assistant,Indeed,2025-06-13,,,,,,,
+C0987,Domiciliary Care Worker,Website,2026-01-21,2026-01-23,,,,,,
+C0988,Domiciliary Care Worker,Indeed,2026-05-09,2026-05-10,2026-05-14,2026-05-15,,,,
+C0989,Healthcare Assistant,Facebook,2026-04-15,2026-04-22,,,,,,
+C0990,Domiciliary Care Worker,Agency,2025-12-08,,,,,,,
+C0991,Domiciliary Care Worker,Referral,2025-03-26,2025-03-31,2025-04-04,2025-04-05,2025-04-19,2025-04-23,2025-05-23,2025-05-25
+C0992,Domiciliary Care Worker,Indeed,2025-06-19,2025-06-23,,,,,,
+C0993,Domiciliary Care Worker,Website,2025-12-15,2025-12-17,2025-12-19,2025-12-21,2026-01-03,2026-01-08,,
+C0994,Domiciliary Care Worker,Indeed,2025-11-04,,,,,,,
+C0995,Healthcare Assistant,Indeed,2025-04-30,,,,,,,
+C0996,Domiciliary Care Worker,Indeed,2025-02-06,2025-02-08,,,,,,
+C0997,Domiciliary Care Worker,Indeed,2025-12-27,2025-12-31,,,,,,
+C0998,Healthcare Assistant,Indeed,2026-06-13,2026-06-15,2026-06-16,,,,,
+C0999,Domiciliary Care Worker,Website,2025-09-07,2025-09-08,2025-09-09,2025-09-13,2025-09-14,2025-09-15,2025-09-21,2025-09-23
+C1000,Healthcare Assistant,Agency,2026-01-24,2026-01-27,2026-01-29,,,,,
+C1001,Domiciliary Care Worker,Indeed,2025-08-11,2025-08-12,,,,,,
+C1002,Domiciliary Care Worker,Indeed,2025-07-05,2025-07-06,2025-07-12,,,,,
+C1003,Healthcare Assistant,Indeed,2025-10-10,2025-10-11,2025-10-17,2025-10-18,2025-10-28,2025-11-03,2025-11-09,2025-11-10
+C1004,Domiciliary Care Worker,Facebook,2025-07-26,2025-07-28,,,,,,
+C1005,Domiciliary Care Worker,Indeed,2026-02-11,2026-02-12,2026-02-16,,,,,
+C1006,Healthcare Assistant,Referral,2025-03-21,2025-03-23,,,,,,
+C1007,Domiciliary Care Worker,Indeed,2025-02-12,2025-02-15,2025-02-16,2025-02-17,,,,
+C1008,Domiciliary Care Worker,Indeed,2025-12-25,2025-12-27,2025-12-29,2025-12-30,2026-01-10,2026-01-12,2026-01-25,2026-01-26
+C1009,Domiciliary Care Worker,Facebook,2026-06-19,2026-06-21,2026-06-23,2026-06-24,2026-06-26,2026-06-28,2026-07-19,2026-07-22
+C1010,Healthcare Assistant,Facebook,2025-03-20,2025-03-22,,,,,,
+C1011,Domiciliary Care Worker,Agency,2025-01-24,2025-01-30,2025-02-09,2025-02-10,2025-02-20,2025-03-10,2025-04-05,2025-04-07
+C1012,Healthcare Assistant,Indeed,2025-06-24,2025-06-26,2025-06-29,2025-07-03,2025-07-11,2025-07-21,2025-09-01,2025-09-04
+C1013,Healthcare Assistant,Agency,2025-07-07,2025-07-08,2025-07-10,2025-07-12,2025-07-20,2025-07-21,,
+C1014,Healthcare Assistant,Indeed,2025-06-24,,,,,,,
+C1015,Domiciliary Care Worker,Indeed,2025-05-08,,,,,,,
+C1016,Healthcare Assistant,Referral,2026-03-04,2026-03-05,,,,,,
+C1017,Healthcare Assistant,Indeed,2026-04-16,2026-04-17,,,,,,
+C1018,Healthcare Assistant,Agency,2025-12-28,2025-12-30,2026-01-06,,,,,
+C1019,Domiciliary Care Worker,Indeed,2025-12-29,,,,,,,
+C1020,Healthcare Assistant,Website,2025-10-22,2025-10-27,2025-10-31,2025-11-01,2025-11-04,2025-11-17,2025-11-24,2025-11-25
+C1021,,Indeed,2025-08-07,2025-08-15,,,,,,
+C1022,Healthcare Assistant,Referral,2025-01-04,2025-01-05,2025-01-17,2025-01-20,2025-01-28,2025-01-31,2025-02-10,2025-02-11
+C1023,Domiciliary Care Worker,Referral,2026-05-26,,,,,,,
+C1024,Domiciliary Care Worker,Indeed,2025-07-09,2025-07-10,,,,,,
+C1025,Domiciliary Care Worker,Website,2026-05-18,2026-05-24,2026-05-26,2026-05-29,2026-07-19,2026-07-20,2026-08-08,2026-08-09
+C1026,Healthcare Assistant,Indeed,2026-01-26,2026-01-27,2026-02-06,2026-02-07,,,,
+C1027,Domiciliary Care Worker,Website,2025-07-22,2025-07-24,,,,,,
+C1028,Domiciliary Care Worker,Indeed,2025-10-18,2025-10-20,2025-10-25,,,,,
+C1029,Healthcare Assistant,Indeed,2025-03-07,2025-03-11,2025-03-13,2025-03-14,2025-03-27,2025-03-29,2025-04-20,2025-04-25
+C1030,Healthcare Assistant,Indeed,2025-06-11,2025-06-15,2025-06-19,,,,,
+C1031,Domiciliary Care Worker,Indeed,2025-03-18,2025-03-20,,,,,,
+C1032,Domiciliary Care Worker,Website,2025-09-11,2025-09-12,2025-09-16,2025-09-17,2025-09-22,2025-09-30,2025-10-14,2025-10-15
+C1033,Healthcare Assistant,Website,2025-10-30,,,,,,,
+C1034,Domiciliary Care Worker,Indeed,2026-04-27,2026-04-29,2026-05-01,2026-05-02,2026-05-20,2026-05-27,2026-06-06,2026-06-11
+C1035,Healthcare Assistant,Facebook,2025-12-27,2025-12-30,,,,,,
+C1036,Healthcare Assistant,Indeed,2025-03-01,2025-03-04,,,,,,
+C1037,Healthcare Assistant,Indeed,2025-01-01,2025-01-06,,,,,,
+C1038,Healthcare Assistant,Indeed,2025-05-14,2025-05-15,2025-05-18,2025-05-19,2025-05-21,2025-05-27,2025-05-30,
+C1039,Domiciliary Care Worker,Indeed,2025-12-25,2025-12-26,2025-12-30,2025-12-31,2026-01-08,,,
+C1040,Domiciliary Care Worker,facebook,2025-12-19,2025-12-22,2025-12-25,,,,,
+C1041,Healthcare Assistant,Indeed,2026-02-19,2026-02-23,,,,,,
+C1042,Domiciliary Care Worker,Agency,2025-06-23,2025-06-24,2025-06-26,2025-06-27,2025-08-12,2025-08-24,2025-10-01,2025-10-05
+C1043,Domiciliary Care Worker,Facebook,2025-04-30,,,,,,,
+C1044,Domiciliary Care Worker,Facebook,2025-11-28,2025-12-03,2025-12-05,2025-12-06,2025-12-08,2025-12-10,2025-12-30,
+C1045,Healthcare Assistant,Agency,2026-06-23,2026-06-25,2026-06-26,2026-06-28,,,,
+C1046,Domiciliary Care Worker,Facebook,2026-02-06,2026-02-08,2026-02-13,2026-02-18,,,,
+C1047,Domiciliary Care Worker,Indeed,2025-11-16,2025-11-19,,,,,,
+C1048,Healthcare Assistant,Indeed,2025-04-05,2025-04-06,2025-04-07,2025-04-09,,,,
+C1049,Healthcare Assistant,Website,2025-07-30,2025-07-31,2025-08-08,2025-08-09,,,,
+C1050,Healthcare Assistant,Website,2026-06-08,,,,,,,
+C1051,Healthcare Assistant,Indeed,2025-10-29,2025-11-03,,,,,,
+C1052,Domiciliary Care Worker,Referral,2025-12-08,2025-12-12,2025-12-15,2025-12-16,,,,
+C1053,Healthcare Assistant,Indeed,2025-05-17,2025-05-21,2025-05-25,2025-05-27,2025-06-08,,,
+C1054,Domiciliary Care Worker,Indeed,2025-08-29,2025-08-30,2025-08-31,,,,,
+C1055,Domiciliary Care Worker,Indeed,2026-05-14,2026-05-16,,,,,,
+C1056,Healthcare Assistant,Indeed,2025-05-06,2025-05-08,2025-05-09,2025-05-11,2025-05-16,2025-05-19,2025-07-19,2025-07-23
+C1057,Domiciliary Care Worker,Agency,2025-01-04,2025-01-09,,,,,,
+C1058,Healthcare Assistant,Indeed,2025-09-05,,,,,,,
+C1059,Healthcare Assistant,Indeed,2025-05-20,2025-05-22,2025-05-28,,,,,
+C1060,Healthcare Assistant,Facebook,2025-05-31,2025-06-01,2025-06-03,,,,,
+C1061,Healthcare Assistant,Indeed,2025-07-22,,,,,,,
+C1062,Domiciliary Care Worker,Website,2026-06-02,2026-06-07,2026-06-09,2026-06-10,2026-06-27,2026-07-01,2026-09-18,2026-09-19
+C1063,Healthcare Assistant,Indeed,2025-04-19,2025-04-20,2025-04-26,2025-04-28,2025-05-01,2025-05-07,2025-05-17,2025-05-18
+C1064,Domiciliary Care Worker,Referral,2025-05-01,2025-05-02,,,,,,
+C1065,Domiciliary Care Worker,Indeed,2025-09-22,,,,,,,
+C1066,Healthcare Assistant,indeed,2025-04-27,2025-04-28,2025-05-12,2025-05-13,2025-05-19,2025-05-22,2025-07-10,2025-07-11
+C1067,Healthcare Assistant,Agency,2026-06-17,,,,,,,
+C1068,Domiciliary Care Worker,Referral,2026-02-27,2026-03-01,,,,,,
+C1069,Healthcare Assistant,Website,2025-05-13,2025-05-15,2025-05-18,2025-05-19,2025-05-31,2025-06-08,2025-07-24,2025-07-29
+C1070,Healthcare Assistant,Facebook,2025-10-18,2025-10-29,2025-11-03,2025-11-05,2025-11-27,2025-12-01,2025-12-19,2025-12-21
+C1071,Domiciliary Care Worker,Facebook,2025-04-24,2025-04-25,2025-04-28,,,,,
+C1072,Domiciliary Care Worker,Facebook,2026-06-20,2026-06-22,2026-06-26,2026-06-27,,,,
+C1073,Domiciliary Care Worker,Website,2026-02-28,,,,,,,
+C1074,Healthcare Assistant,Website,2025-02-20,2025-02-23,2025-02-27,2025-03-03,,,,
+C1075,Domiciliary Care Worker,Indeed,2026-03-18,2026-03-20,2026-03-29,2026-03-30,2026-04-11,2026-04-18,2026-05-05,2026-05-07
+C1076,Healthcare Assistant,Referral,2025-10-10,2025-10-12,2025-10-13,2025-10-14,2025-10-31,2025-11-07,2025-12-16,2025-12-19
+C1077,Domiciliary Care Worker,Indeed,2025-05-08,,,,,,,
+C1078,Domiciliary Care Worker,Indeed,2026-06-23,2026-06-28,2026-07-01,2026-07-02,2026-07-09,2026-07-12,2026-07-13,2026-07-17
+C1079,Domiciliary Care Worker,Indeed,2025-06-19,2025-06-20,2025-07-02,2025-07-04,,,,
+C1080,Healthcare Assistant,Website,2025-05-13,2025-05-14,,,,,,
+C1081,Healthcare Assistant,Indeed,2025-09-08,2025-09-10,,,,,,
+C1082,Domiciliary Care Worker,Indeed,2026-04-29,2026-04-30,,,,,,
+C1083,Domiciliary Care Worker,Facebook,2026-05-02,,,,,,,
+C1084,Healthcare Assistant,Website,2025-03-25,2025-03-27,2025-03-31,2025-04-01,2025-04-08,2025-04-09,2025-04-15,2025-04-17
+C1085,Domiciliary Care Worker,Indeed,2025-11-28,,,,,,,
+C1086,Domiciliary Care Worker,Referral,2026-02-12,2026-02-13,2026-02-25,2026-02-27,2026-03-09,2026-03-18,2026-03-30,2026-03-31
+C1087,Domiciliary Care Worker,Website,2025-04-11,,,,,,,
+C1088,Healthcare Assistant,Referral,2026-03-02,2026-03-04,,,,,,
+C1089,Domiciliary Care Worker,Website,2025-11-01,2025-11-05,2025-11-07,2025-11-08,,,,
+C1090,Domiciliary Care Worker,Agency,2026-06-02,,,,,,,
+C1091,Domiciliary Care Worker,Facebook,2026-02-22,2026-02-24,2026-03-04,2026-03-07,2026-03-08,2026-03-16,,
+C1092,Domiciliary Care Worker,Agency,2025-07-23,2025-07-25,,,,,,
+C1093,Healthcare Assistant,Website,2025-12-01,2025-12-06,2025-12-09,2025-12-10,2025-12-21,2025-12-22,2026-02-02,2026-02-11
+C1094,Domiciliary Care Worker,Facebook,2025-06-07,2025-06-08,2025-06-22,,,,,
+C1095,Domiciliary Care Worker,Agency,2025-03-10,2025-03-15,2025-03-16,2025-03-19,,,,
+C1096,Domiciliary Care Worker,Facebook,2025-08-03,,,,,,,
+C1097,Domiciliary Care Worker,Website,2026-02-26,2026-02-28,2026-03-02,2026-03-03,2026-03-31,2026-04-08,2026-05-02,2026-05-05
+C1098,Healthcare Assistant,Website,2025-09-07,,,,,,,
+C1099,Healthcare Assistant,Facebook,2025-05-28,,,,,,,
+C1100,Healthcare Assistant,Agency,2026-02-20,2026-03-02,2026-03-04,2026-03-05,2026-03-14,2026-03-18,2026-03-21,2026-03-25
+C1101,Domiciliary Care Worker,Referral,2025-12-17,2025-12-19,,,,,,
+C1102,Domiciliary Care Worker,Referral,2025-09-17,2025-09-21,2025-09-27,2025-09-28,2025-10-13,2025-10-21,2025-11-26,2025-11-27
+C1103,Domiciliary Care Worker,Facebook,2025-03-29,2025-04-07,,,,,,
+C1104,Healthcare Assistant,Website,2025-05-24,,,,,,,
+C1105,Healthcare Assistant,Indeed,2025-04-19,,,,,,,
+C1106,Domiciliary Care Worker,Facebook,2025-08-25,2025-08-27,2025-09-02,,,,,
+C1107,Healthcare Assistant,Facebook,2026-03-24,2026-03-25,2026-03-30,2026-03-31,2026-04-12,2026-04-15,2026-05-29,2026-05-30
+C1108,Healthcare Assistant,Facebook,2026-02-14,,,,,,,
+C1109,Healthcare Assistant,Indeed,2025-09-11,2025-09-16,2025-09-19,2025-09-22,2025-09-24,2025-09-27,2025-11-11,2025-11-14
+C1110,Healthcare Assistant,Website,2025-08-29,2025-08-30,,,,,,
+C1111,Domiciliary Care Worker,Referral,2025-05-08,,,,,,,
+C1112,Domiciliary Care Worker,Facebook,2026-04-02,,,,,,,
+C1113,Healthcare Assistant,Referral,2026-06-22,2026-06-28,2026-07-08,2026-07-10,,,,
+C1114,Domiciliary Care Worker,Website,2025-12-10,2025-12-12,,,,,,
+C1115,Domiciliary Care Worker,Referral,2025-11-12,2025-11-13,2025-11-20,2025-11-22,2025-11-26,2025-12-05,2025-12-28,2026-01-02
+C1116,Domiciliary Care Worker,Indeed,2025-05-31,2025-06-03,2025-06-04,,,,,
+C1117,Healthcare Assistant,Indeed,2025-03-05,2025-03-08,2025-03-13,,,,,
+C1118,Domiciliary Care Worker,Indeed,2025-11-21,,,,,,,
+C1119,Healthcare Assistant,Facebook,2025-10-10,2025-10-12,2025-10-16,,,,,
+C1120,Domiciliary Care Worker,Agency,2026-06-05,2026-06-08,2026-06-10,2026-06-11,2026-06-19,2026-06-23,2026-07-18,2026-07-19
+C1121,Healthcare Assistant,Referral,2026-01-09,2026-01-11,2026-01-16,2026-01-17,,,,
+C1122,Healthcare Assistant,Facebook,2025-08-29,,,,,,,
+C1123,Healthcare Assistant,Indeed,2025-01-05,2025-01-08,2025-01-09,2025-01-10,2025-01-18,2025-01-19,2025-02-02,2025-02-05
+C1124,Domiciliary Care Worker,Indeed,2025-02-20,2025-02-21,2025-03-03,2025-03-04,2025-03-05,2025-03-06,2025-03-14,2025-03-15
+C1125,Domiciliary Care Worker,Indeed,2025-06-21,2025-06-24,,,,,,
+C1126,Healthcare Assistant,Indeed,2025-07-17,2025-07-20,2025-07-25,2025-07-26,2025-08-12,2025-08-14,2025-09-05,2025-09-09
+C1127,Domiciliary Care Worker,Indeed,2025-01-23,2025-01-25,2025-01-29,2025-01-30,,,,
+C1128,Domiciliary Care Worker,Referral,2026-01-16,2026-01-18,,,,,,
+C1129,Domiciliary Care Worker,Referral,2026-06-20,2026-06-24,2026-07-03,2026-07-05,,,,
+C1130,Healthcare Assistant,Facebook,2025-10-26,2025-10-29,,,,,,
+C1131,Healthcare Assistant,Referral,2025-11-20,,,,,,,
+C1132,Domiciliary Care Worker,Agency,2026-06-16,2026-06-18,2026-06-22,2026-06-24,2026-07-03,2026-07-08,2026-07-22,2026-07-25
+C1133,Healthcare Assistant,Referral,2025-02-12,2025-02-16,2025-02-17,2025-02-20,2025-02-28,2025-03-02,2025-03-09,2025-03-10
+C1134,Domiciliary Care Worker,Facebook,2025-05-26,2025-05-28,,,,,,
+C1135,Domiciliary Care Worker,Facebook,2025-07-13,,,,,,,
+C1136,Domiciliary Care Worker,Indeed,2025-10-30,2025-11-01,2025-11-06,2025-11-07,2025-11-22,,,
+C1137,Domiciliary Care Worker,Indeed,2026-03-27,2026-03-28,,,,,,
+C1138,Domiciliary Care Worker,Indeed,2025-10-25,2025-11-02,,,,,,
+C1139,Domiciliary Care Worker,Referral,2025-04-28,,,,,,,
+C1140,Domiciliary Care Worker,Facebook,2025-03-20,2025-03-21,2025-03-22,2025-03-26,2025-04-06,2025-04-10,,
+C1141,Healthcare Assistant,Indeed,2025-02-24,2025-02-28,2025-03-07,2025-03-08,2025-04-06,2025-04-11,,
+C1142,Domiciliary Care Worker,Indeed,2025-09-06,,,,,,,
+C1143,Domiciliary Care Worker,Indeed,2026-05-12,2026-05-15,2026-05-17,2026-05-18,2026-06-02,2026-06-03,2026-06-15,2026-06-18
+C1144,Domiciliary Care Worker,Facebook,2025-09-07,2025-09-10,,,,,,
+C1145,Healthcare Assistant,Referral,2025-02-16,,,,,,,
+C1146,Domiciliary Care Worker,Referral,2026-02-07,,,,,,,
+C1147,Healthcare Assistant,Facebook,2025-07-23,2025-07-24,,,,,,
+C1148,Domiciliary Care Worker,Agency,2025-09-09,2025-09-11,2025-09-17,2025-09-19,2025-10-09,2025-10-10,2025-10-20,2025-10-25
+C1149,Domiciliary Care Worker,Indeed,2026-04-09,2026-04-10,2026-04-12,2026-04-14,2026-04-19,2026-04-21,2026-05-10,2026-05-15
+C1150,Healthcare Assistant,Referral,2025-01-04,2025-01-05,2025-01-08,2025-01-09,2025-02-14,2025-02-15,2025-03-08,2025-03-09
+C1151,Domiciliary Care Worker,Website,2026-03-12,,,,,,,
+C1152,Domiciliary Care Worker,Website,2026-04-04,,,,,,,
+C1153,Domiciliary Care Worker,Indeed,2025-05-26,2025-05-27,2025-06-03,2025-06-05,2025-06-07,2025-06-08,2025-06-20,2025-06-30
+C1154,Healthcare Assistant,Website,2025-06-27,2025-06-28,2025-07-01,2025-07-02,,,,
+C1155,Healthcare Assistant,Referral,2025-01-26,2025-01-28,,,,,,
+C1156,Healthcare Assistant,Indeed,2026-01-13,2026-01-16,2026-01-23,2026-01-29,,,,
+C1157,Healthcare Assistant,Indeed,2026-04-21,2026-04-22,2026-04-27,2026-04-28,2026-05-06,2026-05-09,2026-05-19,2026-05-20
+C1158,Domiciliary Care Worker,Website,2025-01-22,2025-01-24,,,,,,
+C1159,Healthcare Assistant,Website,2025-08-27,2025-08-28,2025-09-02,2025-09-03,2025-09-17,2025-09-18,2025-10-03,2025-10-07
+C1160,Healthcare Assistant,Website,2025-06-11,2025-06-18,2025-06-19,2025-06-22,2025-06-28,2025-07-02,2025-08-06,2025-08-09
+C1161,Healthcare Assistant,Facebook,2026-02-04,2026-02-06,,,,,,
+C1162,Domiciliary Care Worker,Facebook,2025-11-02,2025-11-11,2025-11-23,,,,,
+C1163,Domiciliary Care Worker,Facebook,2026-06-20,2026-06-24,,,,,,
+C1164,Healthcare Assistant,Website,2025-03-03,2025-03-06,2025-03-13,2025-03-14,,,,
+C1165,Healthcare Assistant,Indeed,2026-05-21,2026-05-24,2026-05-25,2026-05-26,2026-06-08,2026-06-09,2026-06-12,2026-06-13
+C1166,Domiciliary Care Worker,Indeed,2026-04-07,2026-04-10,,,,,,
+C1167,Domiciliary Care Worker,Facebook,2026-05-24,,,,,,,
+C1168,Domiciliary Care Worker,Facebook,2025-10-07,2025-10-09,2025-10-10,,,,,
+C1169,Healthcare Assistant,Facebook,2026-06-06,2026-06-07,,,,,,
+C1170,Healthcare Assistant,Referral,2025-09-02,2025-09-03,,,,,,
+C1171,Domiciliary Care Worker,Indeed,2025-03-06,2025-03-09,2025-03-19,2025-03-26,2025-03-31,2025-04-02,2025-04-08,2025-04-15
+C1172,Healthcare Assistant,Indeed,2025-04-10,2025-04-11,2025-04-12,2025-04-13,,,,
+C1173,Healthcare Assistant,Facebook,2026-03-18,2026-03-22,2026-03-27,2026-03-28,2026-04-09,2026-04-13,,
+C1174,Healthcare Assistant,Agency,2025-04-05,,,,,,,
+C1175,Healthcare Assistant,Facebook,2025-10-29,2025-10-31,2025-11-03,2025-11-04,2025-11-08,2025-11-13,2025-11-29,2025-12-01
+C1176,Healthcare Assistant,Referral,2025-11-20,,,,,,,
+C1177,Domiciliary Care Worker,Referral,2025-11-02,2025-11-03,2025-11-06,2025-11-07,2025-11-18,2025-11-20,2026-01-08,2026-01-14
+C1178,Healthcare Assistant,Facebook,2025-09-08,2025-09-10,2025-09-26,,,,,
+C1179,Domiciliary Care Worker,Indeed,2025-11-07,2025-11-09,2025-11-13,2025-11-15,2025-11-25,2025-11-27,2026-01-20,2026-01-21
+C1180,Domiciliary Care Worker,Agency,2025-04-10,2025-04-11,,,,,,
+C1181,Domiciliary Care Worker,Indeed,2026-04-14,,,,,,,
+C1182,Healthcare Assistant,Indeed,2025-05-10,,,,,,,
+C1183,Healthcare Assistant,Website,2025-09-12,2025-09-14,2025-09-19,2025-09-20,2025-10-14,,,
+C1184,Healthcare Assistant,Facebook,2025-04-03,2025-04-05,2025-04-13,,,,,
+C1185,Domiciliary Care Worker,Indeed,2025-01-20,2025-01-23,,,,,,
+C1186,Healthcare Assistant,Indeed,2025-10-04,2025-10-05,,,,,,
+C1187,Healthcare Assistant,Referral,2025-06-14,2025-06-15,,,,,,
+C1188,Domiciliary Care Worker,Indeed,2025-11-19,2025-11-20,,,,,,
+C1189,Healthcare Assistant,Indeed,2026-03-22,,,,,,,
+C1190,Healthcare Assistant,Referral,2025-02-24,2025-02-25,,,,,,
+C1191,Healthcare Assistant,Referral,2025-02-09,2025-02-10,2025-02-11,2025-02-12,2025-02-17,2025-02-23,2025-04-01,2025-04-07
+C1192,Domiciliary Care Worker,Facebook,2026-06-13,2026-06-15,,,,,,
+C1193,Domiciliary Care Worker,Indeed,2025-12-24,,,,,,,
+C1194,Healthcare Assistant,Indeed,2025-06-26,2025-07-04,2025-07-09,2025-07-10,2025-08-12,2025-08-15,2025-09-29,2025-10-01
+C1195,Healthcare Assistant,Indeed,2025-02-03,,,,,,,
+C1196,Healthcare Assistant,Indeed,2025-03-30,,,,,,,
+C1197,Domiciliary Care Worker,Facebook,2025-07-16,2025-07-22,2025-07-23,2025-07-25,2025-08-07,2025-08-10,2025-08-30,2025-09-04
+C1198,Healthcare Assistant,Indeed,2026-02-08,2026-02-10,,,,,,
+C1199,Domiciliary Care Worker,Indeed,2026-05-15,,,,,,,
+C1200,Healthcare Assistant,Indeed,2025-07-05,2025-07-08,,,,,,
+C0637,Healthcare Assistant,Indeed,2025-08-29,2025-08-31,2025-09-06,2025-09-07,2025-09-09,2025-09-10,2025-09-21,2025-09-28
+C0684,Domiciliary Care Worker,Agency,2025-12-26,,,,,,,
+C1034,Domiciliary Care Worker,Indeed,2026-04-27,2026-04-29,2026-05-01,2026-05-02,2026-05-20,2026-05-27,2026-06-06,2026-06-11
+C0191,Domiciliary Care Worker,Website,2025-04-24,2025-05-04,,,,,,
+C1084,Healthcare Assistant,Website,2025-03-25,2025-03-27,2025-03-31,2025-04-01,2025-04-08,2025-04-09,2025-04-15,2025-04-17
+C0284,Domiciliary Care Worker,Indeed,2025-03-25,2025-03-31,,,,,,
+C0818,Domiciliary Care Worker,Indeed,2025-12-26,,,,,,,
+C0315,Healthcare Assistant,Agency,2025-02-01,2025-02-04,2025-02-06,2025-02-08,2025-02-11,2025-02-19,2025-02-28,2025-03-01
+C0538,Healthcare Assistant,Website,2025-09-24,,,,,,,
+C0665,Domiciliary Care Worker,Referral,2025-07-11,2025-07-14,2025-07-18,2025-07-19,2025-08-04,2025-08-09,2025-08-16,2025-08-19
+C0240,Domiciliary Care Worker,Indeed,2025-04-02,2025-04-04,2025-04-06,2025-04-07,2025-04-29,2025-05-04,2025-06-08,2025-06-10
+C0136,Domiciliary Care Worker,Agency,2025-09-06,2025-09-08,,,,,,
+C0336,Healthcare Assistant,Indeed,2026-04-11,,,,,,,
+C0190,Healthcare Assistant,Indeed,2025-08-24,2025-08-26,2025-09-01,2025-09-02,2025-09-20,2025-09-21,2025-10-02,2025-10-04
+C0839,Domiciliary Care Worker,Referral,2025-12-04,2025-12-06,2025-12-09,2025-12-10,2025-12-20,2025-12-22,2026-01-06,2026-01-07
