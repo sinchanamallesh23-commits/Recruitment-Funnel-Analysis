@@ -24,6 +24,14 @@ Realistic data quality issues were added deliberately (duplicate rows, inconsist
 | 1 | `01_create_data.ipynb` | Generates the synthetic candidate dataset |
 | 2 | `02_clean_data.ipynb` | Removes 15 duplicates, standardises source names, handles 10 missing roles, converts dates, validates date order |
 | 3 | `03_funnel_analysis.ipynb` | Calculates stage and step conversion rates, compares sources, measures time-to-hire and stage durations |
+| 4 | `04_sql_analysis.ipynb` | Recalculates headline figures in SQL (SQLite) and cross-checks them against pandas |
+| 5 | `recruitment_dashboard.pbix` | Interactive Power BI dashboard |
+
+## Power BI dashboard
+
+![Dashboard](dashboard.png)
+
+Interactive dashboard (`recruitment_dashboard.pbix`) with KPI cards, stage funnel, conversion by source, and slicers for source, role and application date. Built with Power Query (unpivoting stages into a long table), a one-to-many data model, and DAX measures.
 
 ## Key findings
 
@@ -46,7 +54,7 @@ Realistic data quality issues were added deliberately (duplicate rows, inconsist
 
 ## Tools
 
-Python (pandas, NumPy, matplotlib) · Jupyter Notebook · Git/GitHub
+Python (pandas, NumPy, matplotlib) · SQL (SQLite) · Power BI (Power Query, DAX) · Jupyter Notebook · Git/GitHub
 
 ## How to run
 
